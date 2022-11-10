@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>电脑数码企业超省月</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <link rel="shortcut icon" href="//m.360buyimg.com/babel/jfs/t8461/240/2334879892/1289/e6898611/59cc9a63N15b7a7b0.gif"
+        type="image/gif" />
+    <!--[if lte IE 8]>
+        <script src="//misc.360buyimg.com/mtd/pc/index/home/ie6tip.min.js"></script>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="//storage.360buyimg.com/babel/00114433/239531/production/dev/index-v1.0.2.css" />
+    <link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/??jdf/1.0.0/unit/ui-base/5.0.0/ui-base.css" />
+        <link type="text/css" rel="stylesheet" href=//storage.360buyimg.com/babelpc/static/css/mall.d753cdb4.css></link>
+    <script src="//misc.360buyimg.com/jdf/lib/jquery-1.6.4.js"></script>
+    <script type="text/javascript">
+        window.jdpts = {}; jdpts._st = new Date().getTime();
+    </script>
+    <script src="//storage.360buyimg.com/tower/babelnode/polyfill-b92c00e72589288d9784.js"></script>
+    <script src="//storage.360buyimg.com/tower/babelnode/babellib-bd51ee31e0.js"></script>
+</head>
+
+<body data-ssr="1">
+
+            <!DOCTYPE html>
+<html class="root61" lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="keywords" content="办公采购,政府采购,办公设备采购,企业采购平台,京东企业购" />
+    <meta
+      name="description"
+      content="京东企业购是一站式企业采购平台与服务平台,提供多样化场景采购解决方案,包括办公采购、政府采购、办公设备采购等,为您带来 “阳光、高效、简单、快乐”的新型采购体验"
+    />
+    <title>办公采购_政府采购_企业采购平台-京东企业购</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link rel="icon" href="//www.jd.com/favicon.ico" mce_href="//www.jd.com/favicon.ico" type="image/x-icon" />
+    <meta name="renderer" content="webkit" />
+    <meta
+      name="viewport"
+      content="width=device-width,user-scalable=no,initial-scale=1,minimum-scale=1,maximum-scale=1,viewport-fit=cover"
+    />
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="//misc.360buyimg.com/??jdf/1.0.0/unit/ui-base/5.0.0/ui-base.css,jdf/1.0.0/unit/shortcut/5.0.0/shortcut.css,jdf/1.0.0/unit/global-header/5.0.0/global-header.css,jdf/1.0.0/unit/myjd/5.0.0/myjd.css,jdf/1.0.0/unit/nav/5.0.0/nav.css,jdf/1.0.0/unit/shoppingcart/5.0.0/shoppingcart.css,jdf/1.0.0/unit/global-footer/5.0.0/global-footer.css,jdf/1.0.0/unit/service/5.0.0/service.css,channel/lib/1.2.0/css/channel-base.css"
+    />
+    <script type="text/javascript">
+      window.pageConfig = { compatible: false, jdfVersion: '2.0.0', navId: 0 }
+    </script>
+    <script
+      type="text/javascript"
+      src="//misc.360buyimg.com/??jdf/1.0.0/unit/base/5.0.0/base.js,jdf/lib/jquery-1.6.4.js,channel/lib/1.3.0/js/channel-base.js"
+    ></script>
+  <link href="//storage.360buyimg.com/babelview/00001732/channel.41b9f48b.css?t=20211108161852" rel="stylesheet"></head>
+  <body>
+    <!-- widget shortcut begin -->
+    <!--shortcut start-->
+    <div id="shortcut-2014">
+      <div class="w">
+        <ul class="fl">
+          <li id="ttbar-home">
+            <i class="iconfont"></i>
+            <a href="//www.jd.com/" target="_blank">京东首页</a>
+          </li>
+          <li class="dorpdown" id="ttbar-mycity"></li>
+        </ul>
+        <ul class="fr">
+          <li class="fore1" id="ttbar-login">
+            <a href="javascript:login();" class="link-login">你好，请登录</a>  
+            <a href="javascript:regist();" class="link-regist style-red">免费注册</a>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore2">
+            <div class="dt">
+              <a target="_blank" href="//order.jd.com/center/list.action">我的订单</a>
+            </div>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore3 dorpdown" id="ttbar-myjd">
+            <div class="dt cw-icon">
+              <!-- <i class="ci-right"><s>◇</s></i> -->
+              <a target="_blank" href="//home.jd.com/">我的京东</a><i class="iconfont"></i>
+            </div>
+            <div class="dd dorpdown-layer"></div>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore4" id="ttbar-member">
+            <div class="dt">
+              <a target="_blank" href="//vip.jd.com/">京东会员</a>
+            </div>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore5" id="ttbar-ent">
+            <div class="dt">
+              <a target="_blank" href="//b.jd.com/">企业采购</a>
+            </div>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore6 dorpdown" id="ttbar-serv">
+            <div class="dt cw-icon">
+              <!-- <i class="ci-right"><s>◇</s></i> -->
+              客户服务<i class="iconfont"></i>
+            </div>
+            <div class="dd dorpdown-layer"></div>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore7 dorpdown" id="ttbar-navs">
+            <div class="dt cw-icon">
+              <!-- <i class="ci-right"><s>◇</s></i> -->
+              网站导航<i class="iconfont"></i>
+            </div>
+            <div class="dd dorpdown-layer"></div>
+          </li>
+          <li class="spacer"></li>
+          <li class="fore8 dorpdown" id="ttbar-apps">
+            <div class="dt cw-icon">
+              <!-- <i class="ci-left"></i> -->
+              <!-- <i class="ci-right"><s>◇</s></i> -->
+              <a target="_blank" href="//app.jd.com/">手机京东</a>
+            </div>
+          </li>
+        </ul>
+        <span class="clr"></span>
+      </div>
+    </div>
+    <div id="o-header-2013">
+      <div id="header-2013" style="display: none"></div>
+    </div>
+    <!--shortcut end-->
+    <!-- widget shortcut end -->
+    <div id="app"></div>
+    <!-- <script type="text/javascript" src="//misc.360buyimg.com/mall/lib/hotwords.js?position=h-1727"></script> -->
+
+    <script type="text/javascript">
+      seajs.use(
+        [
+          '//bhome.jd.com/common/static/js/globalInit.js',
+          '//misc.360buyimg.com/jdf/1.0.0/unit/category/2.0.0/category',
+        ],
+        function (globalInit, globalCate) {
+          globalInit()
+          globalCate({ type: 'mini', mainId: '#categorys-mini', el: '#categorys-mini-main' })
+        }
+      )
+    </script>
+    <script>
+      ;(function () {
+        var e = navigator.userAgent.toLocaleLowerCase()
+        var r = /iphone|android|symbianos|windows\sphone/g
+        if (r.test(e)) {
+          window.location.href = '//pro.m.jd.com/mall/active/2QSx2aihF9gmEyA1gnpqVg15jo86/index.html'
+        }
+      })()
+
+      if (!Array.from) {
+        Array.from = function (el) {
+          return Array.apply(this, el)
+        }
+      }
+
+      if (typeof Object.assign != 'function') {
+        Object.assign = function (target) {
+          'use strict'
+          if (target == null) {
+            throw new TypeError('Cannot convert undefined or null to object')
+          }
+
+          target = Object(target)
+          for (var index = 1; index < arguments.length; index++) {
+            var source = arguments[index]
+            if (source != null) {
+              for (var key in source) {
+                if (Object.prototype.hasOwnProperty.call(source, key)) {
+                  target[key] = source[key]
+                }
+              }
+            }
+          }
+          return target
+        }
+      }
+      seajs.use(
+        [
+          '//misc.360buyimg.com/jdf/1.0.0/ui/dialog/1.0.0/dialog',
+          '//misc.360buyimg.com/jdf/1.0.0/unit/insertStyles/1.0.0/insertStyles',
+        ],
+        function (dialog, insertStyles) {
+          // not support
+          $(function () {
+            var ie = (function () {
+              var undef = void 0,
+                v = 3,
+                div = document.createElement('div'),
+                all = div.getElementsByTagName('i')
+              while (((div.innerHTML = '<!--[if gt IE ' + ++v + ']><i></i><![endif]-->'), all[0])) {}
+              return v > 4 ? v : undef
+            })()
+            var le8 = typeof ie != 'undefined' && ie < 9
+            if (le8) {
+              var style =
+                '#lowversion-popup{width:600px;height:345px;color:#666}#lowversion-popup .mt{position:relative;z-index:2;margin:0 auto;width:270px;height:50px;background:#c5141e;}#lowversion-popup .mt p{color:#fff; font-size:16px; text-align:center; line-height:50px;}#lowversion-popup .mc{position:relative;z-index:1;top:-25px;height:270px;padding:0 40px;background:#fff}#lowversion-popup .mc dl{padding:43px 0 8px;overflow:hidden}#lowversion-popup .mc dl dt{float:left;width:76px;height:38px;line-height:40px;font-size:16px}#lowversion-popup .mc dl dd{float:left;width:auto}#lowversion-popup .mc dl dd p{height:40px;line-height:40px;font-size:14px}#lowversion-popup .mc .browser-list{overflow:hidden;margin:6px 0 8px}#lowversion-popup .mc .browser-list li{float:left;width:79px;padding-right:80px; padding-left:25px;}#lowversion-popup .mc .browser-list li a{display:inline-block;width:79px;height:106px;font-size:0}#lowversion-popup .mc .browser-list li.fore0 a{background:url(//misc.360buyimg.com/channel/auction/2.1.0/css/i/lowversion02.png) 0 -60px no-repeat}#lowversion-popup .mc .browser-list li.fore1 a{background:url(//misc.360buyimg.com/channel/auction/2.1.0/css/i/lowversion02.png) -97px -60px no-repeat}#lowversion-popup .mc .browser-list li.fore2{padding-right:0}#lowversion-popup .mc .browser-list li.fore2 a{background:url(//misc.360buyimg.com/channel/auction/2.1.0/css/i/lowversion02.png) -194px -60px no-repeat}#lowversion-popup .mc .cq{width:300px;height:95px;text-indent:-9999px;background:url(//misc.360buyimg.com/channel/auction/2.1.0/css/i/lowversion02.png) 0 -190px no-repeat}'
+              var template =
+                '<div id="lowversion-popup"><div class="mt"><p>检测到您的浏览器版本太低！</p></div>' +
+                '<div class="mc"><dl><dd><p>为了得到当前页面最好的体验效果，我们建议您安装以下浏览器</p><ol class="browser-list">' +
+                '<li class="fore0"><a href="https://browser.qq.com/?adtag=SEM1" title="QQ浏览器" target="_blank">QQ浏览器</a></li>' +
+                '<li class="fore1"><a href="https://www.firefox.com.cn/" title="Firefox" target="_blank">Firefox</a></li>' +
+                '<li class="fore2"><a href="https://www.google.cn/intl/zh-CN/chrome/browser/desktop/?spm=a21bo.50862.20161112.d1.28689e73b3XA5O" title="Chrome" target="_blank">Chrome</a></li>' +
+                '</ol></dd></dl><dl></dl></div></div>'
+              insertStyles(style)
+              $('body').dialog({
+                hasCssLink: false,
+                closeButton: false,
+                title: null,
+                width: 600,
+                type: 'html',
+                opacity: 0.9,
+                source: template,
+              })
+              document.documentElement.style.overflow = 'hidden'
+            }
+          })
+        }
+      )
+    </script>
+    <!-- <script type="text/javascript" src="//wl.jd.com/wl.js"></script> -->
+    <!-- 头部注册跳转链接跳转企业注册 -->
+    <script type="text/javascript" src="//static.360buyimg.com/mtd/pc/cms/js/head_regirst.js" charset="UTF-8"></script>
+    <!-- 增加注册cookie埋点 -->
+    <script type="text/javascript" src="//transformers.jd.com/register/lib/registerId.js"></script>
+    <script type="text/javascript">
+      var jaq = jaq || []
+      jaq.push(['account', 'JA2019_1132098'])
+      jaq.push(['domain', 'jd.com'])
+      ;(function () {
+        var ja = document.createElement('script')
+        ja.type = 'text/javascript'
+        ja.async = true
+        // ja.src = '//wl.jd.com/wl.js'
+        var s = document.getElementsByTagName('script')[0]
+        s.parentNode.insertBefore(ja, s)
+      })()
+    </script>
+  <script type="text/javascript" src="//storage.360buyimg.com/babelview/00001732/vendor.b303f350.js?t=20211108161852"></script><script type="text/javascript" src="//storage.360buyimg.com/babelview/00001732/channel.13b9f0a2.js?t=20211108161852"></script></body>
+</html>
+
+
+    <div id="J_babelOpt" class="bab_opt_con">
+        <div id="J_babelOptPage" class="bab_opt_page show"><div class="babel-app mall" style="background-color:#3f4bc5"><div class="bab-opt-mod bab-opt-mod-1_0 float_nav" data-floornum="1_0" data-moduleid="157202934" data-template="float_nav"><div class="fn_container" style="width:160px;height:600px;top:155px;display:none;right:-260px"><div><img src="data:image/webp;base64,UklGRkAAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAIAAAAAAFZQOCAYAAAAMAEAnQEqAQABAAFAJiWkAANwAP79NmgA" alt="ME1666783537769.png" class="lazyload-img fn_container_img" data-src="//m.360buyimg.com/babel/jfs/t1/72945/23/21206/89666/63591930E4a68ffd8/e7f5c21b90863e24.png" data-resize="0"/><div class="fn_container_items"><button jsonSrv="1" target="_blank" style="width:125px;height:33px;top:77px;left:15px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:125px;height:36px;top:113px;left:15px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:125px;height:30px;top:150px;left:14px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:127px;height:35px;top:182px;left:16px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:128px;height:32px;top:220px;left:15px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:127px;height:34px;top:255px;left:16px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:125px;height:33px;top:291px;left:17px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:129px;height:33px;top:325px;left:17px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:127px;height:35px;top:360px;left:15px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:124px;height:34px;top:397px;left:17px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:124px;height:34px;top:432px;left:19px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:123px;height:32px;top:469px;left:19px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:126px;height:34px;top:503px;left:18px" class="fn_container_item">dsfsdfsdf</button><button jsonSrv="1" target="_blank" style="width:127px;height:47px;top:539px;left:19px" class="fn_container_item">dsfsdfsdf</button></div></div></div></div><div class="bab-opt-mod bab-opt-mod-1_1 float_nav" data-floornum="1_1" data-moduleid="157313545" data-template="float_nav"><div class="fn_container" style="width:160px;height:220px;top:265px;display:none;left:-260px"><div><img src="data:image/webp;base64,UklGRkAAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAIAAAAAAFZQOCAYAAAAMAEAnQEqAQABAAFAJiWkAANwAP79NmgA" alt="侧滑，客服.png" class="lazyload-img fn_container_img" data-src="//m.360buyimg.com/babel/jfs/t1/73798/21/22538/30956/6357f80cE634d21e9/ab0c77d4bc0d984d.png" data-resize="0"/></div></div></div><div class="bab-opt-mod bab-opt-mod-1_2 hotzone full-screen" data-floornum="1_2" data-moduleid="156501638" data-template="hotzone"><div class="hot-space-module" style="background:transparent"><div class="img-wrap" style="position:relative;background:transparent"><div style="height:308px;position:relative;background:transparent"><img src="data:image/webp;base64,UklGRkAAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAIAAAAAAFZQOCAYAAAAMAEAnQEqAQABAAFAJiWkAANwAP79NmgA" class="lazyload-img hotzone-pic more" data-src="//m.360buyimg.com/babel/jfs/t1/162432/35/31319/152689/6350a609E6424b7f2/c5fe8037557ac558.jpg" data-resize="0"/></div></div></div></div><div class="bab-opt-mod bab-opt-mod-1_3 hotzone " data-floornum="1_3" data-moduleid="156675470" data-template="hotzone"><div class="hot-space-module" style="background:transparent"><div class="img-wrap" style="position:relative;background:transparent"><div style="height:52px;position:relative;background:transparent"><img src="data:image/webp;base64,UklGRkAAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAIAAAAAAFZQOCAYAAAAMAEAnQEqAQABAAFAJiWkAANwAP79NmgA" class="lazyload-img hotzone-pic more" data-src="//m.360buyimg.com/babel/jfs/t1/124772/33/26623/601/6350a644Ee0d7e959/70cbcc57726c3740.jpg" data-resize="0"/></div></div></div></div><div class="bab-opt-mod bab-opt-mod-1_4 pc_custom_code module_156467047 shared" data-floornum="1_4" data-moduleid="156467047" data-template="pc_custom_code"></div><div class="bab-opt-mod bab-opt-mod-1_5 hotzone " data-floornum="1_5" data-moduleid="156591825" data-template="hotzone"><div class="hot-space-module" style="background:transparent"><div class="img-wrap" style="position:relative;background:transparent"><div style="height:231px;position:relative;background:transparent"><img src="data:image/webp;base64,UklGRkAAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAIAAAAAAFZQOCAYAAAAMAEAnQEqAQABAAFAJiWkAANwAP79NmgA" class="lazyload-img hotzone-pic more" data-src="//m.360buyimg.com/babel/jfs/t1/18894/38/19228/29218/634d5fe5Ec0bd4210/8437a921afaff692.png" data-resize="0"/></div></div></div></div><div class="bab-opt-mod bab-opt-mod-1_6 free_coupon" data-floornum="1_6" data-moduleid="157315569" data-template="free_coupon"><div class="coupon-module" style="background-color:#3f4bc5;padding-bottom:10px"><div class="coupon-module_row coupon-module_row-4x gotouse"><a data-cpid="2ACFF881F84BBCC5C30188599DB33766_babel" href="javascript:void(0);" class="coupon-item  no-illus upload" style="background-image:url(&quot;https://m.360buyimg.com/babel/jfs/t1/205266/5/25587/23436/6359173aE3ce0a542/63c222058a0e76f9.png&quot;);height:80px"><div class="use_mask"></div><div class="use_btn" style="background-color:#1b1328">立即使用</div></a><a data-cpid="8870839A3A615663CEFEC7F676F504B6_babel" href="javascript:void(0);" class="coupon-item  no-illus upload" style="background-image:url(&quot;https://m.360buyimg.com/babel/jfs/t1/125337/33/30456/22060/63591786E4a056c95/2f052218b5ca5ff0.png&quot;);height:80px"><div class="use_mask"></div><div class="use_btn" style="background-color:#1b1328">立即使用</div></a><a data-cpid="CB404FECD1163A2F62F6EA4220FF24E1_babel" href="javascript:void(0);" class="coupon-item  no-illus upload" style="background-image:url(&quot;https://m.360buyimg.com/babel/jfs/t1/173090/26/31135/22570/635917a3E7035ea61/72434baae6a870fb.png&quot;);height:80px"><div class="use_mask"></div><div class="use_btn" style="background-color:#1b1328">立即使用</div></a><a data-cpid="EBAA8D7637A16BB4EBE734A51D8DD274_babel" href="javascript:void(0);" class="coupon-item  no-illus upload" style="background-image:url(&quot;https://m.360buyimg.com/babel/jfs/t1/44449/40/23280/23606/635917e1Efa869577/914a93ce619338a6.png&quot;);height:80px"><div class="use_mask"></div><div class="use_btn" style="background-color:#1b1328">立即使用</div></a></div></div></div><div class="bab-opt-mod bab-opt-mod-1_7 hotzone " data-floornum="1_7" data-moduleid="157264664" data-template="hotzone"><div class="hot-space-module" style="background:transparent"><div class="img-wrap" style="position:relative;background:transparent"><div style="height:52px;position:relative;background:transparent"><img src="data:image/webp;base64,UklGRkAAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAIAAAAAAFZQOCAYAAAAMAEAnQEqAQABAAFAJiWkAANwAP79NmgA" class="lazyload-img hotzone-pic more" data-src="//m.360buyimg.com/babel/jfs/t1/124772/33/26623/601/6350a644Ee0d7e959/70cbcc57726c3740.jpg" data-resize="0"/></div></div></div></div><div class="bab-opt-mod bab-opt-mod-1_8 free_coupon" data-floornum="1_8" data-moduleid="157302094" data-template="free_coupon"><div class="coupon-module" style="background-color:#3f4bc5;padding-bottom:10px"><div class="coupon-module_row coupon-module_row-4x gotouse"><a data-cpid="B83288B829B030CC07B8000CB30EEA22_babel" href="javascript:void(0);" class="coupon-item  no-illus upload" style="background-image:url(&quot;https://m.360buyimg.com/babel/jfs/t1/176762/4/30530/22733/63591856E3059f399/36d7fa9433fcdb8f.png&quot;);height:80px"><div class="use_mask"></div><div class="use_btn" style="background-color:#1b1328">立即使用</div></a><a data-cpid="A13008361923DB685B2EBF232B309353_babel" href="javascript:void(0);" class="coupon-item  no-illus upload" style="background-image:url(&quot;https://m.360buyimg.com/babel/jfs/t1/133694/30/27592/22981/63591874Ea8bbe1dd/e210b504d40d7093.png&quot;);height:80px"><div class="use_mask"></div><div class="use_btn" style="background-color:#1b1328">立即使用</div></a><a data-cpid="629661E7122EDE564AA1F5A406665DBD_babel" href="javascript:void(0);" class="coupon-item  no-illus upload" style="background-image:url(&quot;https://m.360buyimg.com/babel/jfs/t1/139510/3/29359/23274/63591891Eede69230/51a831ab94197ec3.png&quot;);height:80px"><div class="use_mask"></div><div class="use_btn" style="background-color:#1b1328">立即使用</div></a><a data-cpid="C9A97BB4E9DEEADA29B569E3992A4B0B_babel" href="javascript:void(0);" class="coupon-item  no-illus upload" style="background-image:url(&quot;https://m.360buyimg.com/babel/jfs/t1/47325/23/21833/23513/635918a8Ee57e6262/aa76f6dd9b247c10.png&quot;);height:80px"><div class="use_mask"></div><div class="use_btn" style="background-color:#1b1328">立即使用</div></a></div></div></div><div class="section-loading"></div></div></div>
+    </div>
+    <script type="text/javascript">!function(){var t=/(?!storage\.)360buyimg\.com\/.*\.jpe?g(\.webp)?\s*$/i,e=/(?!storage\.)360buyimg\.com\/.*\/((s([\d^_]+)x([\d^_]+)_)?jfs)/i;var i,n,a=/(?!storage\.)360buyimg\.com\/.*\.jpe?g\s*$/i;function r(){var i=document.getElementById("J_babelOptPage").getElementsByTagName("img"),n=[];[].forEach.call(i,function(t){var e,i,a,r;t.offsetWidth<=0&&t.offsetHeight<=0||(e=t,i=window.innerWidth||document.documentElement.clientWidth,a=window.innerHeight||document.documentElement.clientHeight,r=e.getBoundingClientRect(),e.rect=r,r.top+r.height>=-a&&r.left+r.width>=0&&r.top<=2*a&&r.left<=i&&n.push(t))});var a,r,o=n.length;o&&[].forEach.call(n,function(i,n){var a=i.getAttribute("data-src"),r="0"===i.getAttribute("data-resize");if(a){var o=r?a:function(i,n){if(!t.test(i))return i;var a=i.match(e);if(!a)return i;if(a[3]&&a[4]){if(!n||!n.width&&!n.height)return i;n.width&&!n.height&&(n.height=n.width/a[3]*a[4]),n.height&&!n.width&&(n.width=n.height/a[4]*a[3]);var r="s"+Math.ceil(n.width)+"x"+Math.ceil(n.height)+"_jfs";return i.replace(a[1],r)}return n&&n.width&&n.height?i.replace("/jfs/","/s"+Math.ceil(n.width)+"x"+Math.ceil(n.height)+"_jfs/"):i}(a,i.rect),h=new Image;h.onload=function(){i.removeAttribute("data-src"),i.className+=" fadein",i.setAttribute("src",o),c(n,o)},h.onerror=function(){c(n,null)},h.src=o}else c(n,i.src)});function c(t,e){0===t&&(a=e),t+1===o&&(r=e,window.__preload_lazyload_imgs_info__={firstLoadImgSrc:a,lastLoadImgSrc:r})}}i=function(t){!function(t){if(t)for(var e=document.getElementsByTagName("img"),i=0,n=e.length;i<n;i++){var r=e[i];a.test(r.getAttribute("data-src"))&&r.setAttribute("data-src",r.getAttribute("data-src")+".webp")}}(t),r()},(n=new Image).onload=function(){n.height>0&&n.width>0?i(!0):i(!1)},n.onerror=function(){i(!1)},n.src="data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAUAmJaQAA3AA/vz0AAA="}();;</script>
+    <script>
+        (function() {
+            window.__react_data__ = {"pageData":{"msg":"success","floatLayerList":[],"paginationFlrs":"[[156467045,157202934,157313545,156501638,156675470,156467047,156591825,157302093,157315569,157264664,157302094,157315570,156467080,156467081,156467082],[156467050,156675471,157267310,156675472,156510631,157264665,156675473,156467051,156467052,156504221,156467054,156552761,156467056,156467057,156467058],[156467059,156467060,156467061,156467062,156467063,156467064,156467065,156467070,156467071,156467072,156467073],[156467074,156467075,156467076,156467077,156467078,156467079,156467066,156467067,156467068,156467069],[156467084,156467083]]","paginationParamEnd":"","code":"0","pagination":true,"customcodeMatQryType":{"156467047":"none"},"asyncInterfaceBack":{"templatePlatform":"3"},"head":{"template":"page_setup","footSet":"0","tailStyleId":"00001383","headSet":"0","pageBgPicStyle":"0","pageBgColor":"#3f4bc5","isFootCusCode":"0","pageBgPicUrl":"","pageName":"电脑数码企业超省月","toolBarStyle":"1","headSourceId":"c6660eedc6957c6a1c38270e71f91d83","styleType":"1","isHeadCusCode":"0","headStyleId":"00001732","topBarStyle":"","footSourceId":"fd448fd134b1dd1f81709cdf98c024fe","showShop":"0","headCodeText":null,"footCodeText":null},"activityId":"00905666","subCode":"0","transParam":"{\"bsessionId\":\"944bfdb5-e1da-4612-86bf-0b2047befc87\",\"babelChannel\":\"\",\"actId\":\"00905666\",\"enActId\":\"8MDwZrW38S3yJvKwtzu7nEqcYBj\",\"pageId\":\"3951362\",\"encryptCouponFlag\":\"1\",\"requestChannel\":\"pc\"}","biimpr":"00905666_3951362","floorList":[{"template":"float_nav","tabList":[],"styleId":"1","ofn":"2","navList":[{"urlType":"0","paginationParam":"2","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"0\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"125","x":"15","h":"33","y":"77","moduleId":"156675470"},{"urlType":"0","paginationParam":"2","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"1\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"125","x":"15","h":"36","y":"113","moduleId":"156591825"},{"urlType":"0","paginationParam":"3","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"2\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"125","x":"14","h":"30","y":"150","moduleId":"156467050"},{"urlType":"0","paginationParam":"3","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"3\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"127","x":"16","h":"35","y":"182","moduleId":"156675473"},{"urlType":"0","paginationParam":"3","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"4\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"128","x":"15","h":"32","y":"220","moduleId":"156467052"},{"urlType":"0","paginationParam":"3","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"5\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"127","x":"16","h":"34","y":"255","moduleId":"156467054"},{"urlType":"0","paginationParam":"3","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"6\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"125","x":"17","h":"33","y":"291","moduleId":"156467058"},{"urlType":"0","paginationParam":"4","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"7\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"129","x":"17","h":"33","y":"325","moduleId":"156467060"},{"urlType":"0","paginationParam":"4","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"8\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"127","x":"15","h":"35","y":"360","moduleId":"156467062"},{"urlType":"0","paginationParam":"4","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"9\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"124","x":"17","h":"34","y":"397","moduleId":"156467064"},{"urlType":"0","paginationParam":"4","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"10\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"124","x":"19","h":"34","y":"432","moduleId":"156467070"},{"urlType":"0","paginationParam":"5","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"11\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"123","x":"19","h":"32","y":"469","moduleId":"156467066"},{"urlType":"0","paginationParam":"5","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"12\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"126","x":"18","h":"34","y":"503","moduleId":"156467068"},{"urlType":"0","paginationParam":"2","srv":"{\"tabtyp\":\"s0\",\"hotid\":\"13\",\"mid\":\"157202934\",\"typ\":\"t1\",\"aid\":\"00905666\",\"tid\":\"-100\"}","w":"127","x":"19","h":"47","y":"539","moduleId":"156501638"}],"id":157202934,"moduleId":157202934,"config":{"bgPicHeight":600,"bgPicName":"ME1666783537769.png","bgPicUrl":"//m.360buyimg.com/babel/jfs/t1/72945/23/21206/89666/63591930E4a68ffd8/e7f5c21b90863e24.png","above":"0","pageHead":"-10","bgPicWidth":160,"navStyle":"0","pageSide":"100"},"floorNum":"1_0"},{"template":"float_nav","tabList":[],"styleId":"0","ofn":"3","navList":[],"id":157313545,"moduleId":157313545,"config":{"bgPicHeight":220,"bgPicName":"侧滑，客服.png","bgPicUrl":"//m.360buyimg.com/babel/jfs/t1/73798/21/22538/30956/6357f80cE634d21e9/ab0c77d4bc0d984d.png","above":"0","pageHead":"100","bgPicWidth":160,"navStyle":"0","pageSide":"100"},"floorNum":"1_1"},{"template":"hotzone","externalBorder":"0","hotZone":{"picList":[{"picUrl":"//m.360buyimg.com/babel/jfs/t1/162432/35/31319/152689/6350a609E6424b7f2/c5fe8037557ac558.jpg","picW":1920,"picH":599,"picName":"pc头图.jpg"}],"pictureUrl":""},"ofn":"4","width":1920,"isFullScreen":"1","id":156501638,"moduleId":156501638,"priceLabel":{"show":"0"},"floorNum":"1_2","height":600},{"template":"hotzone","externalBorder":"0","hotZone":{"picList":[{"picUrl":"//m.360buyimg.com/babel/jfs/t1/124772/33/26623/601/6350a644Ee0d7e959/70cbcc57726c3740.jpg","picW":1125,"picH":60,"picName":"条纹.jpg"}],"pictureUrl":""},"ofn":"5","width":1125,"isFullScreen":"0","id":156675470,"moduleId":156675470,"priceLabel":{"show":"0"},"floorNum":"1_3","height":60},{"template":"pc_custom_code","sourceId":"363fecff6aaf8671e14cbe1a3249c7ad","htmlSourceUrl":"babelview/00028666/363fecff6aaf8671e14cbe1a3249c7ad.repl.html","hasBindMaterial":0,"channel":"pc","htmlSource":"&lt;!doctype html&gt;\n&lt;html lang=&quot;zh-CN&quot;&gt;\n\n&lt;head&gt;\n  &lt;meta charset=&quot;UTF-8&quot; /&gt;\n  &lt;link href=&quot;//storage.360buyimg.com/babelview/00028666/theme-blue-less-0414.chunk.css?t=20220825195401&quot; rel=&quot;stylesheet&quot; disabled=&quot;disabled&quot; id=&quot;save-info-theme0&quot;&gt;\n  &lt;link href=&quot;//storage.360buyimg.com/babelview/00028666/theme-gold-less-0414.chunk.css?t=20220825195401&quot; rel=&quot;stylesheet&quot; disabled=&quot;disabled&quot; id=&quot;save-info-theme1&quot;&gt;\n  &lt;link href=&quot;//storage.360buyimg.com/babelview/00028666/4.chunk.css?t=20220825195401&quot; rel=&quot;stylesheet&quot;&gt;\n  &lt;link href=&quot;//storage.360buyimg.com/babelview/00028666/main.chunk.css?t=20220825195401&quot; rel=&quot;stylesheet&quot;&gt;\n&lt;/head&gt;\n&lt;script&gt;// 获取组件面板中配置的参数 (三个化括号为获取配置的参数，不能换行)\n  (function () {\n    var boardParams = {{{ boardParams }}}\n  window.promotionBoardParams = JSON.parse(boardParams)\n\n  document.getElementById('save-info-theme' + window.promotionBoardParams.type).disabled = false;\n}) ()&lt;/script&gt;\n\n&lt;body&gt;\n  &lt;div id=&quot;savemoney-root&quot; class=&quot;root&quot; page-id=&quot;save-money-page&quot;&gt;&lt;/div&gt;\n  &lt;script&gt;!function (e) { function t(t) { for (var n, o, l = t[0], i = t[1], c = t[2], s = 0, p = []; s &lt; l.length; s++)o = l[s], Object.prototype.hasOwnProperty.call(a, o) &amp;&amp; a[o] &amp;&amp; p.push(a[o][0]), a[o] = 0; for (n in i) Object.prototype.hasOwnProperty.call(i, n) &amp;&amp; (e[n] = i[n]); for (f &amp;&amp; f(t); p.length;)p.shift()(); return u.push.apply(u, c || []), r() } function r() { for (var e, t = 0; t &lt; u.length; t++) { for (var r = u[t], n = !0, o = 1; o &lt; r.length; o++) { var i = r[o]; 0 !== a[i] &amp;&amp; (n = !1) } n &amp;&amp; (u.splice(t--, 1), e = l(l.s = r[0])) } return e } var n = {}, o = { 1: 0 }, a = { 1: 0 }, u = []; function l(t) { if (n[t]) return n[t].exports; var r = n[t] = { i: t, l: !1, exports: {} }; return e[t].call(r.exports, r, r.exports, l), r.l = !0, r.exports } l.e = function (e) { var t = []; o[e] ? t.push(o[e]) : 0 !== o[e] &amp;&amp; { 2: 1, 3: 1 }[e] &amp;&amp; t.push(o[e] = new Promise((function (t, r) { for (var n = &quot;css/&quot; + ({ 2: &quot;theme-blue-less-0414&quot;, 3: &quot;theme-gold-less-0414&quot; }[e] || e) + &quot;.chunk.css&quot;, a = l.p + n, u = document.getElementsByTagName(&quot;link&quot;), i = 0; i &lt; u.length; i++) { var c = (f = u[i]).getAttribute(&quot;data-href&quot;) || f.getAttribute(&quot;href&quot;); if (&quot;stylesheet&quot; === f.rel &amp;&amp; (c === n || c === a)) return t() } var s = document.getElementsByTagName(&quot;style&quot;); for (i = 0; i &lt; s.length; i++) { var f; if ((c = (f = s[i]).getAttribute(&quot;data-href&quot;)) === n || c === a) return t() } var p = document.createElement(&quot;link&quot;); p.rel = &quot;stylesheet&quot;, p.type = &quot;text/css&quot;, p.onload = t, p.onerror = function (t) { var n = t &amp;&amp; t.target &amp;&amp; t.target.src || a, u = new Error(&quot;Loading CSS chunk &quot; + e + &quot; failed.\\n(&quot; + n + &quot;)&quot;); u.code = &quot;CSS_CHUNK_LOAD_FAILED&quot;, u.request = n, delete o[e], p.parentNode.removeChild(p), r(u) }, p.href = a, document.getElementsByTagName(&quot;head&quot;)[0].appendChild(p) })).then((function () { o[e] = 0 }))); var r = a[e]; if (0 !== r) if (r) t.push(r[2]); else { var n = new Promise((function (t, n) { r = a[e] = [t, n] })); t.push(r[2] = n); var u, i = document.createElement(&quot;script&quot;); i.charset = &quot;utf-8&quot;, i.timeout = 120, l.nc &amp;&amp; i.setAttribute(&quot;nonce&quot;, l.nc), i.src = function (e) { return l.p + &quot;js/&quot; + ({ 2: &quot;theme-blue-less-0414&quot;, 3: &quot;theme-gold-less-0414&quot; }[e] || e) + &quot;.&quot; + { 2: &quot;6cdcde29&quot;, 3: &quot;1781b33a&quot; }[e] + &quot;.chunk.js&quot; }(e); var c = new Error; u = function (t) { i.onerror = i.onload = null, clearTimeout(s); var r = a[e]; if (0 !== r) { if (r) { var n = t &amp;&amp; (&quot;load&quot; === t.type ? &quot;missing&quot; : t.type), o = t &amp;&amp; t.target &amp;&amp; t.target.src; c.message = &quot;Loading chunk &quot; + e + &quot; failed.\\n(&quot; + n + &quot;: &quot; + o + &quot;)&quot;, c.name = &quot;ChunkLoadError&quot;, c.type = n, c.request = o, r[1](c) } a[e] = void 0 } }; var s = setTimeout((function () { u({ type: &quot;timeout&quot;, target: i }) }), 12e4); i.onerror = i.onload = u, document.head.appendChild(i) } return Promise.all(t) }, l.m = e, l.c = n, l.d = function (e, t, r) { l.o(e, t) || Object.defineProperty(e, t, { enumerable: !0, get: r }) }, l.r = function (e) { &quot;undefined&quot; != typeof Symbol &amp;&amp; Symbol.toStringTag &amp;&amp; Object.defineProperty(e, Symbol.toStringTag, { value: &quot;Module&quot; }), Object.defineProperty(e, &quot;__esModule&quot;, { value: !0 }) }, l.t = function (e, t) { if (1 &amp; t &amp;&amp; (e = l(e)), 8 &amp; t) return e; if (4 &amp; t &amp;&amp; &quot;object&quot; == typeof e &amp;&amp; e &amp;&amp; e.__esModule) return e; var r = Object.create(null); if (l.r(r), Object.defineProperty(r, &quot;default&quot;, { enumerable: !0, value: e }), 2 &amp; t &amp;&amp; &quot;string&quot; != typeof e) for (var n in e) l.d(r, n, function (t) { return e[t] }.bind(null, n)); return r }, l.n = function (e) { var t = e &amp;&amp; e.__esModule ? function () { return e.default } : function () { return e }; return l.d(t, &quot;a&quot;, t), t }, l.o = function (e, t) { return Object.prototype.hasOwnProperty.call(e, t) }, l.p = &quot;&quot;, l.oe = function (e) { throw console.error(e), e }; var i = this.webpackJsonppc = this.webpackJsonppc || [], c = i.push.bind(i); i.push = t, i = i.slice(); for (var s = 0; s &lt; i.length; s++)t(i[s]); var f = c; r() }([])&lt;/script&gt;\n  &lt;script src=&quot;//storage.360buyimg.com/babelview/00028666/4.b77d6d21.chunk.js?t=20220825195401&quot;&gt;&lt;/script&gt;\n  &lt;script src=&quot;//storage.360buyimg.com/babelview/00028666/main.d76ee945.chunk.js?t=20220825195401&quot;&gt;&lt;/script&gt;\n&lt;/body&gt;\n&lt;script src=&quot;https://transformers.jd.com/register/lib/registerId.js&quot;&gt;&lt;/script&gt;\n\n&lt;/html&gt;","materialQryType":"none","floorNum":"1_4","godIds":[],"cmpIds":[],"ssr":1,"styleId":"00024983","ofn":"6","bizId":"19","enc":"64A8C7ACF44CF78F3B114A60F22A9AC285A9EEFE8174BBE1AFC4EDCD2CEA4914498AC95E51B04F0C943C66BE65DB7CD8","advIds":[],"boardParams":{"tgId":"OHKezeD7SnY","type":"0","returnurlType":"1"},"id":156467047,"moduleId":156467047,"timestamp":"1666791613598","h5FloorFrameState":0},{"template":"hotzone","externalBorder":"0","hotZone":{"picList":[{"picUrl":"//m.360buyimg.com/babel/jfs/t1/18894/38/19228/29218/634d5fe5Ec0bd4210/8437a921afaff692.png","picW":1125,"picH":263,"oriPicW":965,"picName":"965x226_楼层.psd_楼层.ps.png","oriPicH":226}],"pictureUrl":""},"ofn":"7","width":1125,"isFullScreen":"0","id":156591825,"moduleId":156591825,"priceLabel":{"show":"0"},"floorNum":"1_5","height":250},{"template":"free_coupon","styleId":"0","couponList":[{"endPeriod":"2022-10-31","cpId":"2ACFF881F84BBCC5C30188599DB33766_babel","cpHot":{"w":390,"x":0,"h":390,"y":0},"discount":"300","batchId":"869631110","biClk":"","jsonSrv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"869631110\"}","scene":"1","picUrl":"https://m.360buyimg.com/babel/jfs/t1/205266/5/25587/23436/6359173aE3ce0a542/63c222058a0e76f9.png","beginPeriod":"2022-10-01","scope":"仅可购买部分整机商品","limit":"满10000可用","shopId":"","countDown":-1666792460094,"expoSrv":"{\"cord\":1,\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"869631110\"}","flexibleData":{"scope":"仅可购买部分整机商品","limit":"满10000可用","discount":"300","couponState":""},"jumpSku":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"sku\":\"\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"869631110\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=869631110"}},"cpStyle":"0","jumpGd":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"-100\",\"fno\":\"0-0-9\",\"bi\":\"-100\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"map\":\"-100\",\"cid\":\"869631110\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=869631110"}},"args":"key=F13019D94E968C0D93F6C91E978590874AFA5295FF4D1321E2E4F19663EE42968EE673B07A0B9335A2576700202549F2_babel,roleId=2ACFF881F84BBCC5C30188599DB33766_babel","cpLoc":{"w":265,"x":0,"h":149,"y":0},"srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"869631110\"}","beginTimeStr":"","isEnterprise":"1","illus":"","status":"0"},{"endPeriod":"2022-10-31","cpId":"8870839A3A615663CEFEC7F676F504B6_babel","cpHot":{"w":390,"x":0,"h":390,"y":0},"discount":"10","batchId":"870942354","biClk":"","jsonSrv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"870942354\"}","scene":"1","picUrl":"https://m.360buyimg.com/babel/jfs/t1/125337/33/30456/22060/63591786E4a056c95/2f052218b5ca5ff0.png","beginPeriod":"2022-10-10","scope":"仅可购买电脑数码部分店铺指定商品","limit":"满49可用","shopId":"","countDown":-1666792460095,"expoSrv":"{\"cord\":2,\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"870942354\"}","flexibleData":{"scope":"仅可购买电脑数码部分店铺指定商品","limit":"满49可用","discount":"10","couponState":""},"jumpSku":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"sku\":\"\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"870942354\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=870942354"}},"cpStyle":"0","jumpGd":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"-100\",\"fno\":\"0-0-9\",\"bi\":\"-100\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"map\":\"-100\",\"cid\":\"870942354\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=870942354"}},"args":"key=632D92FF3F8844D88E590ACB966DA3566610601CFA24CBC2EEBACFFB6B7DD7D7100503F692BDF981A781BF55EAFCD6F8_babel,roleId=8870839A3A615663CEFEC7F676F504B6_babel","cpLoc":{"w":265,"x":0,"h":149,"y":0},"srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"870942354\"}","beginTimeStr":"","isEnterprise":"1","illus":"","status":"0"},{"endPeriod":"2022-10-31","cpId":"CB404FECD1163A2F62F6EA4220FF24E1_babel","cpHot":{"w":390,"x":0,"h":390,"y":0},"discount":"30","batchId":"870391186","biClk":"","jsonSrv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"870391186\"}","scene":"1","picUrl":"https://m.360buyimg.com/babel/jfs/t1/173090/26/31135/22570/635917a3E7035ea61/72434baae6a870fb.png","beginPeriod":"2022-10-10","scope":"仅可购买电脑数码部分店铺指定商品","limit":"满300可用","shopId":"","countDown":-1666792460097,"expoSrv":"{\"cord\":3,\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"870391186\"}","flexibleData":{"scope":"仅可购买电脑数码部分店铺指定商品","limit":"满300可用","discount":"30","couponState":""},"jumpSku":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"sku\":\"\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"870391186\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=870391186"}},"cpStyle":"0","jumpGd":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"-100\",\"fno\":\"0-0-9\",\"bi\":\"-100\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"map\":\"-100\",\"cid\":\"870391186\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=870391186"}},"args":"key=4A7881287AF724661BC5B7DA3E91EE2F9605C3FD4AD97F3A9D6B36A1311C2B8E172EF0FF5E2CBDD034F21A836E46BA7C_babel,roleId=CB404FECD1163A2F62F6EA4220FF24E1_babel","cpLoc":{"w":265,"x":0,"h":149,"y":0},"srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"870391186\"}","beginTimeStr":"","isEnterprise":"1","illus":"","status":"0"},{"endPeriod":"2022-10-31","cpId":"EBAA8D7637A16BB4EBE734A51D8DD274_babel","cpHot":{"w":390,"x":0,"h":390,"y":0},"discount":"1500","batchId":"870836070","biClk":"","jsonSrv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"870836070\"}","scene":"1","picUrl":"https://m.360buyimg.com/babel/jfs/t1/44449/40/23280/23606/635917e1Efa869577/914a93ce619338a6.png","beginPeriod":"2022-10-01","scope":"仅可购买部分戴尔商品","limit":"满50000可用","shopId":"","countDown":-1666792460099,"expoSrv":"{\"cord\":4,\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"870836070\"}","flexibleData":{"scope":"仅可购买部分戴尔商品","limit":"满50000可用","discount":"1500","couponState":""},"jumpSku":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"sku\":\"\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"870836070\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=870836070"}},"cpStyle":"0","jumpGd":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"-100\",\"fno\":\"0-0-9\",\"bi\":\"-100\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"map\":\"-100\",\"cid\":\"870836070\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=870836070"}},"args":"key=159F97EA9DBB99DC15B806F639A25DC9830E2CC2CD8FBA6D6BC35EACC6540E3F1F4F4FC08375AC4F9F6D5D4E5E28ED9F_babel,roleId=EBAA8D7637A16BB4EBE734A51D8DD274_babel","cpLoc":{"w":265,"x":0,"h":149,"y":0},"srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-9\",\"bi\":\"\",\"mid\":\"157315569\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"870836070\"}","beginTimeStr":"","isEnterprise":"1","illus":"","status":"0"}],"ofn":"9","id":157315569,"moduleId":157315569,"config":{"picWidth":432,"bgStyle":"0","backgroundColor":"#3f4bc5","picHeight":149,"buttonColor":"#1b1328","cpContent":"0","sameColor":"0","jumpGuide":"1","bgPic":"","innerBorder":"1","enterpriseCopywrite":"此券为企业用户专享，立即注册企业账号领取吧~","loginUrl":"https://msc.jd.com/auth/loginpage/wcoo/toAuthPage?source=15&businessType=729&directReturnUrl=https%3A%2F%2Fpro.jd.com%2Fmall%2Factive%2F8MDwZrW38S3yJvKwtzu7nEqcYBj%2Findex.html","familyCopywrite":"仅限家庭用户领取，开通家庭号领取专属福利吧！","width":"1125","showSku":"0","loginCopywrite":"此券需要实名认证用户才可以领取哦","layoutStyle":"4","plusCopywrite":"此券为PLUS正式会员专享券，立即开通PLUS即可领取哦！","enterpriseUrl":"https://reg.jd.com/b/regPage?source=buser&tgId=3M4AnFUngnU","picBgColor":"1","plusUrl":"https://plus.jd.com/index?s=ttt&returnUrl=https%3A%2F%2Fpro.jd.com%2Fmall%2Factive%2F8MDwZrW38S3yJvKwtzu7nEqcYBj%2Findex.html","plusRenewCopywrite":"该券只有PLUS年卡续费用户可领，去续费领券吧~","height":240,"familyUrl":"https://myfamily.jd.com?source=babel"},"elementList":[{"color":"#000000","h":"75","textContent":"9999","totalLine":"1","align":"0","type":"discount","isBold":"1","size":"63","w":"303","x":"12","y":"45","lineCount":"1","key":"discount"},{"bgStyle":"0","color":"#F2190D","h":"45","totalLine":"3","align":"0","type":"limit","isBold":"0","size":"36","bgColor":"#ffffff","w":"300","x":"12","y":"144","lineCount":"1","key":"limit"},{"bgStyle":"1","color":"#ffffff","h":"50","totalLine":"3","align":"0","type":"scope","isBold":"0","size":"42","bgColor":"#f2190d","w":"474","x":"327","y":"57","lineCount":"1","key":"scope"},{"countDownSwitch":"0","w":"246","h":"240","picture1":"https://m.360buyimg.com/babel/jfs/t1/152615/9/4841/9629/5fa36116Ef4603030/c63fe1f0be07495e.jpg","x":"816","y":"0","style":"0","type":"button","picture3":"http://m.360buyimg.com/babel/jfs/t1/180329/16/20133/6802/611f6e55Ee44fb806/2fe08d43df1534bd.png","key":"button","picture2":"https://m.360buyimg.com/babel/jfs/t1/130339/12/14772/8034/5fa36138E49cbea79/09d5ec039769dfe9.jpg"},{"w":"162","x":"819","h":"162","y":"27","type":"couponState","key":"couponState"}],"floorNum":"1_6"},{"template":"hotzone","externalBorder":"0","hotZone":{"picList":[{"picUrl":"//m.360buyimg.com/babel/jfs/t1/124772/33/26623/601/6350a644Ee0d7e959/70cbcc57726c3740.jpg","picW":1125,"picH":60,"picName":"条纹.jpg"}],"pictureUrl":""},"ofn":"10","width":1125,"isFullScreen":"0","id":157264664,"moduleId":157264664,"priceLabel":{"show":"0"},"floorNum":"1_7","height":60},{"template":"free_coupon","styleId":"0","couponList":[{"endPeriod":"2022-11-03","cpId":"B83288B829B030CC07B8000CB30EEA22_babel","cpHot":{"w":390,"x":0,"h":390,"y":0},"discount":"100","batchId":"873044762","biClk":"","jsonSrv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"873044762\"}","scene":"1","picUrl":"https://m.360buyimg.com/babel/jfs/t1/176762/4/30530/22733/63591856E3059f399/36d7fa9433fcdb8f.png","beginPeriod":"2022-10-24","scope":"仅可购买皓丽京东自营官方店部分商品","limit":"满201可用","shopId":"","countDown":-1666792460101,"expoSrv":"{\"cord\":1,\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"873044762\"}","flexibleData":{"scope":"仅可购买皓丽京东自营官方店部分商品","limit":"满201可用","discount":"100","couponState":""},"jumpSku":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"sku\":\"\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"873044762\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=873044762"}},"cpStyle":"0","jumpGd":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"-100\",\"fno\":\"0-0-11\",\"bi\":\"-100\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"map\":\"-100\",\"cid\":\"873044762\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=873044762"}},"args":"key=9ED85F24820111E7D94500CE676EF05F1128F6A7CA0D04511D1EB61F55E40C6A56C694FA22553F828CD7C6852140AC86_babel,roleId=B83288B829B030CC07B8000CB30EEA22_babel","cpLoc":{"w":265,"x":0,"h":149,"y":0},"srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"873044762\"}","beginTimeStr":"","isEnterprise":"0","illus":"","status":"0"},{"endPeriod":"2022-11-03","cpId":"A13008361923DB685B2EBF232B309353_babel","cpHot":{"w":390,"x":0,"h":390,"y":0},"discount":"400","batchId":"872989590","biClk":"","jsonSrv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"872989590\"}","scene":"1","picUrl":"https://m.360buyimg.com/babel/jfs/t1/133694/30/27592/22981/63591874Ea8bbe1dd/e210b504d40d7093.png","beginPeriod":"2022-10-24","scope":"仅可购买皓丽京东自营官方店部分商品","limit":"满801可用","shopId":"","countDown":-1666792460102,"expoSrv":"{\"cord\":2,\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"872989590\"}","flexibleData":{"scope":"仅可购买皓丽京东自营官方店部分商品","limit":"满801可用","discount":"400","couponState":""},"jumpSku":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"sku\":\"\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"872989590\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=872989590"}},"cpStyle":"0","jumpGd":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"-100\",\"fno\":\"0-0-11\",\"bi\":\"-100\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"map\":\"-100\",\"cid\":\"872989590\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=872989590"}},"args":"key=0C265B1F49DCBCFB0758A1B5743FB4800BCCF4A98128782F8367E6B5D364E5C81030C8588F89E9ADD87046AAD7B27847_babel,roleId=A13008361923DB685B2EBF232B309353_babel","cpLoc":{"w":265,"x":0,"h":149,"y":0},"srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"872989590\"}","beginTimeStr":"","isEnterprise":"0","illus":"","status":"0"},{"endPeriod":"2022-11-03","cpId":"629661E7122EDE564AA1F5A406665DBD_babel","cpHot":{"w":390,"x":0,"h":390,"y":0},"discount":"600","batchId":"872781902","biClk":"","jsonSrv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"872781902\"}","scene":"1","picUrl":"https://m.360buyimg.com/babel/jfs/t1/139510/3/29359/23274/63591891Eede69230/51a831ab94197ec3.png","beginPeriod":"2022-10-24","scope":"仅可购买皓丽京东自营官方店部分商品","limit":"满1201可用","shopId":"","countDown":-1666792460104,"expoSrv":"{\"cord\":3,\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"872781902\"}","flexibleData":{"scope":"仅可购买皓丽京东自营官方店部分商品","limit":"满1201可用","discount":"600","couponState":""},"jumpSku":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"sku\":\"\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"872781902\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=872781902"}},"cpStyle":"0","jumpGd":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"-100\",\"fno\":\"0-0-11\",\"bi\":\"-100\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"map\":\"-100\",\"cid\":\"872781902\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=872781902"}},"args":"key=8AE4B88220F17409FEEB22ADC4B2E604185F5DB1331C250295895BB18C2DAA96CA1392C2CDA866806A33D4B70F9B615C_babel,roleId=629661E7122EDE564AA1F5A406665DBD_babel","cpLoc":{"w":265,"x":0,"h":149,"y":0},"srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"872781902\"}","beginTimeStr":"","isEnterprise":"0","illus":"","status":"0"},{"endPeriod":"2022-11-03","cpId":"C9A97BB4E9DEEADA29B569E3992A4B0B_babel","cpHot":{"w":390,"x":0,"h":390,"y":0},"discount":"1200","batchId":"872913570","biClk":"","jsonSrv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"872913570\"}","scene":"1","picUrl":"https://m.360buyimg.com/babel/jfs/t1/47325/23/21833/23513/635918a8Ee57e6262/aa76f6dd9b247c10.png","beginPeriod":"2022-10-24","scope":"仅可购买皓丽京东自营官方店部分商品","limit":"满2401可用","shopId":"","countDown":-1666792460106,"expoSrv":"{\"cord\":4,\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"872913570\"}","flexibleData":{"scope":"仅可购买皓丽京东自营官方店部分商品","limit":"满2401可用","discount":"1200","couponState":""},"jumpSku":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"sku\":\"\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"872913570\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=872913570"}},"cpStyle":"0","jumpGd":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"-100\",\"fno\":\"0-0-11\",\"bi\":\"-100\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"map\":\"-100\",\"cid\":\"872913570\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=872913570"}},"args":"key=C14EEE54F0E05247A6008D8939CADA76CD09B3145C466A2A0A9D139DC6E0CF36B7D59131BC88AD66E89418290F8456A0_babel,roleId=C9A97BB4E9DEEADA29B569E3992A4B0B_babel","cpLoc":{"w":265,"x":0,"h":149,"y":0},"srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-11\",\"bi\":\"\",\"mid\":\"157302094\",\"typ\":\"t5\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"00905666\",\"cid\":\"872913570\"}","beginTimeStr":"","isEnterprise":"0","illus":"","status":"0"}],"ofn":"11","id":157302094,"moduleId":157302094,"config":{"picWidth":432,"bgStyle":"0","backgroundColor":"#3f4bc5","picHeight":149,"buttonColor":"#1b1328","cpContent":"0","sameColor":"0","jumpGuide":"1","bgPic":"","innerBorder":"1","enterpriseCopywrite":"此券为企业用户专享，立即注册企业账号领取吧~","loginUrl":"https://msc.jd.com/auth/loginpage/wcoo/toAuthPage?source=15&businessType=729&directReturnUrl=https%3A%2F%2Fpro.jd.com%2Fmall%2Factive%2F8MDwZrW38S3yJvKwtzu7nEqcYBj%2Findex.html","familyCopywrite":"仅限家庭用户领取，开通家庭号领取专属福利吧！","width":"1125","showSku":"0","loginCopywrite":"此券需要实名认证用户才可以领取哦","layoutStyle":"4","plusCopywrite":"此券为PLUS正式会员专享券，立即开通PLUS即可领取哦！","enterpriseUrl":"https://reg.jd.com/b/regPage?source=buser&tgId=3M4AnFUngnU","picBgColor":"1","plusUrl":"https://plus.jd.com/index?s=ttt&returnUrl=https%3A%2F%2Fpro.jd.com%2Fmall%2Factive%2F8MDwZrW38S3yJvKwtzu7nEqcYBj%2Findex.html","plusRenewCopywrite":"该券只有PLUS年卡续费用户可领，去续费领券吧~","height":240,"familyUrl":"https://myfamily.jd.com?source=babel"},"elementList":[{"color":"#000000","h":"75","textContent":"9999","totalLine":"1","align":"0","type":"discount","isBold":"1","size":"63","w":"303","x":"12","y":"45","lineCount":"1","key":"discount"},{"bgStyle":"0","color":"#F2190D","h":"45","totalLine":"3","align":"0","type":"limit","isBold":"0","size":"36","bgColor":"#ffffff","w":"300","x":"12","y":"144","lineCount":"1","key":"limit"},{"bgStyle":"1","color":"#ffffff","h":"50","totalLine":"3","align":"0","type":"scope","isBold":"0","size":"42","bgColor":"#f2190d","w":"474","x":"327","y":"57","lineCount":"1","key":"scope"},{"countDownSwitch":"0","w":"246","h":"240","picture1":"https://m.360buyimg.com/babel/jfs/t1/152615/9/4841/9629/5fa36116Ef4603030/c63fe1f0be07495e.jpg","x":"816","y":"0","style":"0","type":"button","picture3":"http://m.360buyimg.com/babel/jfs/t1/180329/16/20133/6802/611f6e55Ee44fb806/2fe08d43df1534bd.png","key":"button","picture2":"https://m.360buyimg.com/babel/jfs/t1/130339/12/14772/8034/5fa36138E49cbea79/09d5ec039769dfe9.jpg"},{"w":"162","x":"819","h":"162","y":"27","type":"couponState","key":"couponState"}],"floorNum":"1_8"}],"item":"0","backgroundColor":"","paginationParams":["1","2","3","4","5"],"pageId":"3951362","visReState":{"matGrpN":2,"matReN":2},"returnMsg":"success","hasPerData":"1","hasIdentification":"1","encodeActivityId":"8MDwZrW38S3yJvKwtzu7nEqcYBj","useDiscovery":"","resultTag":"ok"},"activityData":{"pageId":"3951362","pageUrl":"http://pro.jd.com/mall/active/8MDwZrW38S3yJvKwtzu7nEqcYBj/index.html?babelChannel=ttt55&extension_id=eyJhZCI6IiIsImNoIjoiIiwic2hvcCI6IiIsInNrdSI6IiIsInRzIjoiIiwidW5pcWlkIjoie1wiY2xpY2tfaWRcIjpcIjQxMzc3MzBmLTY2NTktNDE0NC04YTk1LTJkMjdkN2E4MTkyNFwiLFwibWF0ZXJpYWxfaWRcIjpcIjg0OTc1OTU0MDBcIixcInBvc19pZFwiOlwiNDI3MlwiLFwic2lkXCI6XCI4ZmQzYjg1OS1jY2JlLTRkOTUtOTM3Yy05OGUzMmQ3YTI1MTdcIn0ifQ==&jd_pop=4137730f-6659-4144-8a95-2d27d7a81924&abt=1","title":"电脑数码企业超省月","activityId":"00905666","encodeActivityId":"8MDwZrW38S3yJvKwtzu7nEqcYBj","inkTarget":"_blank","item":"0","cpChannelKey":"H5node","asyncInterfaceBack":{"templatePlatform":"3"}},"app":{"activityBu":"mall","activityId":"8MDwZrW38S3yJvKwtzu7nEqcYBj","isEnvBeta":false,"isUniversal":false,"sid":"","universalSiteName":"mall"}};
+        }());
+    </script>
+    <div id="J-global-toolbar"></div>
+    <script src="//misc.360buyimg.com/jdf/1.0.0/unit/base/5.0.0/base.js"></script>
+    <script type="text/javascript">
+        (function () {
+            window.require = seajs && seajs.use;
+        })();
+    </script>
+            
+   <link href="//storage.360buyimg.com/babelview/00001383/channel.9c800728.css?t=20210803195837" rel="stylesheet"></head>
+ <div id="footer"></div>
+  <script type="text/javascript" src="//storage.360buyimg.com/babelview/00001383/channel.0f410605.js?t=20210803195837"></script>
+ <script type="text/javascript" src="//storage.360buyimg.com/babelview/00001383/vendor.cc66912a.js?t=20210803195837"></script>
+
+
+
+    <script>
+        seajs.use([window.globalInitUrl || '//bhome.jd.com/common/static/js/globalInit.js'], function (globalInit) {
+            globalInit();
+            seajs.use([
+                '//storage.360buyimg.com/babel/00114433/239531/production/dev/index-v1.0.2.js'
+            ], function () {
+                pageConfig.toolbar = new Toolbar.default({
+                    pType: 'babel',
+                    bars: {
+                        coupon: {
+                            enabled: false,
+                        },
+                        jimi: {
+                            iframe: '//jimi.jd.com/index.action?source=jdhome',
+                            target: '//chat.jd.com/chat/index.action?venderId=1&entry=jd_web_jimi_babelEmbed'
+                        },
+                        history: {
+                            enabled: false,
+                        }
+                    },
+                    links: {
+                        feedback: {
+                            enabled: false,
+                            href: '//surveys.jd.com/index.php?r=survey/index/sid/323814/newtest/Y/lang/zh-Hans'
+                        },
+                        top: {
+                            anchor: '#'
+                        }
+                    },
+                    ad: {
+                        enabled: false,
+                    },
+                });
+            })
+        });
+    </script>
+        <script src=//storage.360buyimg.com/babelpc/static/js/vendors.cf56d72e.chunk.js></script>
+<script src=//storage.360buyimg.com/babelpc/static/js/templates.6d553fda.chunk.js></script>
+<script src=//storage.360buyimg.com/babelpc/static/js/mall.ee45b171.js></script>
+</body>
+
+</html>

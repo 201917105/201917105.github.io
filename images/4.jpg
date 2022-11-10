@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>工业品会场</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <link rel="shortcut icon" href="//m.360buyimg.com/babel/jfs/t8461/240/2334879892/1289/e6898611/59cc9a63N15b7a7b0.gif"
+        type="image/gif" />
+    <!--[if lte IE 8]>
+        <script src="//misc.360buyimg.com/mtd/pc/index/home/ie6tip.min.js"></script>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="//storage.360buyimg.com/babel/00114433/239531/production/dev/index-v1.0.2.css" />
+    <link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/??jdf/1.0.0/unit/ui-base/5.0.0/ui-base.css" />
+        <link type="text/css" rel="stylesheet" href=//storage.360buyimg.com/babelpc/static/css/mall.d753cdb4.css></link>
+    <script src="//misc.360buyimg.com/jdf/lib/jquery-1.6.4.js"></script>
+    <script type="text/javascript">
+        window.jdpts = {}; jdpts._st = new Date().getTime();
+    </script>
+    <script src="//storage.360buyimg.com/tower/babelnode/polyfill-b92c00e72589288d9784.js"></script>
+    <script src="//storage.360buyimg.com/tower/babelnode/babellib-bd51ee31e0.js"></script>
+        <style data-styled="true" data-styled-version="5.3.5">.bTDlOc{position:absolute;object-fit:cover;width:132px;height:66.88px;left:23.76px;top:23.76px;border-radius:0px 0px 0px 0px;}/*!sc*/
+data-styled.g3[id="sc-dkzDqf"]{content:"bTDlOc,"}/*!sc*/
+.fsdgMQ{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;}/*!sc*/
+data-styled.g20[id="sc-fEOsli"]{content:"fsdgMQ,"}/*!sc*/
+.jrAsVU{position:relative;overflow:hidden;width:990px;height:327.36px;background-image:url(https://m.360buyimg.com/babel/jfs/t1/192723/36/28706/78951/634e6f28E676502b3/7d96953322ead29c.jpg);background-size:100% 100%;border-radius:0px 0px 0px 0px;}/*!sc*/
+data-styled.g21[id="sc-bjUoiL"]{content:"jrAsVU,"}/*!sc*/
+.jtjunl{position:relative;box-sizing:border-box;font-size:0;overflow:hidden;border-radius:0px 0px 0px 0px;padding:0px 0px 0px 0px;background-color:rgba(255,255,255,0);}/*!sc*/
+data-styled.g22[id="sc-idiyUo"]{content:"jtjunl,"}/*!sc*/
+.eEGIvD{box-sizing:border-box;overflow:hidden;width:990px;background-color:#ffffff;padding:0px 0px 0px 0px;background-size:100%;}/*!sc*/
+data-styled.g40[id="sc-gXmSlM"]{content:"eEGIvD,"}/*!sc*/
+</style>
+</head>
+
+<body data-ssr="1">
+
+            <script>
+    window.globalInitUrl = '//bhome.jd.com/common/static/js/globalInit.js'';
+</script>
+
+<style>
+	#ttbar-apps .dorpdown-layer:last-child {
+		display:none;
+	}
+</style>
+
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/??jdf/1.0.0/unit/ui-base/5.0.0/ui-base.css,jdf/1.0.0/unit/shortcut/5.0.0/shortcut.css,jdf/1.0.0/unit/global-header/5.0.0/global-header.css,jdf/1.0.0/unit/myjd/5.0.0/myjd.css,jdf/1.0.0/unit/nav/5.0.0/nav.css,jdf/1.0.0/unit/shoppingcart/5.0.0/shoppingcart.css,jdf/1.0.0/unit/global-footer/5.0.0/global-footer.css,jdf/1.0.0/unit/service/5.0.0/service.css" />
+<style>
+@media all and (max-width: 1210px) {
+    .root61 .w {
+        width: 990px;
+    }
+    .root61 .w #logo-2014 {
+        width: auto;
+    }
+    .root61 .w #search-2014 {
+        margin-left: 60px;
+    }
+
+    #service-2017 .slogen {
+        height: auto;
+    }
+    #service-2017 .slogen .item.fore2 {
+        float: right;
+    }
+    #service-2017 .slogen .item.fore3 {
+        clear: left;
+        margin-top: 10px;
+    }
+    #service-2017 .slogen .item.fore4 {
+        float: right;
+        margin-top: 10px;
+    }
+}
+</style>
+
+<!--shortcut start-->
+<div id="shortcut-2014">
+	<div class="w">
+		<ul class="fl">
+			<li id="ttbar-home"><i class="iconfont">&#xe608;</i><a href="//www.jd.com/" target="_blank">京东首页</a></li>
+			<li class="dorpdown" id="ttbar-mycity"></li>
+		</ul>
+		<ul class="fr">
+			<li class="fore1" id="ttbar-login">
+				<a href="javascript:login();" class="link-login">你好，请登录</a>&nbsp;&nbsp;<a href="javascript:regist();" class="link-regist style-red">免费注册</a>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore2">
+				<div class="dt">
+					<a target="_blank" href="//order.jd.com/center/list.action">我的订单</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore3 dorpdown" id="ttbar-myjd">
+				<div class="dt cw-icon">
+					<!-- <i class="ci-right"><s>◇</s></i> -->
+					<a target="_blank" href="//home.jd.com/">我的京东</a><i class="iconfont">&#xe605;</i>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore4" id="ttbar-member">
+				<div class="dt">
+					<a target="_blank" href="//vip.jd.com/">京东会员</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore5" id="ttbar-ent">
+				<div class="dt">
+					<a target="_blank" href="//b.jd.com/">企业采购</a>
+				</div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore6 dorpdown" id="ttbar-serv">
+				<div class="dt cw-icon">
+					<!-- <i class="ci-right"><s>◇</s></i> -->
+					客户服务<i class="iconfont">&#xe605;</i>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore7 dorpdown" id="ttbar-navs">
+				<div class="dt cw-icon">
+					<!-- <i class="ci-right"><s>◇</s></i> -->
+					网站导航<i class="iconfont">&#xe605;</i>
+				</div>
+				<div class="dd dorpdown-layer"></div>
+			</li>
+			<li class="spacer"></li>
+			<li class="fore8 dorpdown" id="ttbar-apps">
+				<div class="dt cw-icon">
+					<!-- <i class="ci-left"></i> -->
+					<!-- <i class="ci-right"><s>◇</s></i> -->
+					<a target="_blank" href="//app.jd.com/">手机京东</a>
+				</div>
+			</li>
+		</ul>
+		<span class="clr"></span>
+	</div>
+</div>
+<div id="o-header-2013">
+	<div id="header-2013" style="display:none;"></div>
+</div>
+<!--shortcut end-->
+
+<div class="w">
+	<div id="logo-2014">
+		<a href="//www.jd.com/" class="logo">京东</a>
+	</div>
+	<div id="search-2014">
+		<ul id="shelper" class="hide"></ul>
+		<div class="form">
+			<input type="text" onkeydown="javascript:if(event.keyCode==13) search('key');" autocomplete="off" id="key" accesskey="s"
+			 class="text" />
+			<button onclick="search('key');return false;" class="button cw-icon"><i></i>搜索</button>
+		</div>
+	</div>
+	<div id="settleup-2014" class="dorpdown">
+		<div class="cw-icon">
+			<i class="iconfont">&#xe607;</i>
+			<i class="iconfont arrow">&#xe601;</i>
+			<a target="_blank" href="//cart.jd.com/cart.action">我的购物车</a>
+		</div>
+		<div class="dorpdown-layer">
+			<div class="spacer"></div>
+			<div id="settleup-content">
+				<span class="loading"></span>
+			</div>
+		</div>
+	</div>
+	<div id="hotwords"></div>
+	<span class="clr"></span>
+</div>
+
+<!--nav start-->
+<div id="nav-2014">
+	<div class="w">
+		<div class="w-spacer"></div>
+		<div id="categorys-2014" class="dorpdown" data-type="default">
+			<div class="dt">
+				<a target="_blank" href="//www.jd.com/allSort.aspx">全部商品分类</a>
+			</div>
+		</div>
+		<div id="navitems-2014">
+			<ul id="navitems-group1">
+				<li clstag="" id="nav-fashion" class="fore1">
+					<a class="b" target="_blank" href="//pro.jd.com/mall/active/3qMkfmPMc55RTahmSSpwwuxVrYMG/index.html">京东服饰</a>
+				</li>
+				<li clstag="" id="nav-beauty" class="fore2">
+					<a class="b" target="_blank" href="//channel.jd.com/beautysale.html">美妆馆</a>
+				</li>
+				<li clstag="" id="nav-chaoshi" class="fore3">
+					<a class="b" target="_blank" href="//channel.jd.com/chaoshi.html">超市</a>
+				</li>
+				<li clstag="" id="nav-fresh" class="fore4">
+					<a class="b" target="_blank" href="//fresh.jd.com">生鲜</a>
+				</li>
+			</ul>
+			<div class="spacer"></div>
+			<ul id="navitems-group2">
+				<li clstag="" id="nav-jdww" class="fore1">
+					<a class="b" target="_blank" href="//www.jd.hk/">京东国际</a>
+				</li>
+				<li clstag="" id="nav-red" class="fore2">
+					<a class="b" target="_blank" href="//red.jd.com/">闪购</a>
+				</li>
+				<li clstag="" id="nav-auction" class="fore3">
+					<a class="b" target="_blank" href="//paimai.jd.com/">拍卖</a>
+				</li>
+			</ul>
+			<div class="spacer"></div>
+			<ul id="navitems-group3">
+				<li clstag="" id="nav-jdjr" class="fore1">
+					<a class="b" target="_blank" href="//jr.jd.com/">金融</a>
+				</li>
+			</ul>
+		</div>
+		<div id="treasure"></div>
+		<span class="clr"></span>
+	</div>
+</div>
+<!--nav end-->
+
+
+    <div id="J_babelOpt" class="bab_opt_con">
+        <div id="J_babelOptPage" class="bab_opt_page show"><div class="babel-app mall" style="background-color:#ff4b64"><div data-width="990" class="bab-opt-mod bab-opt-mod-1_0 flex_cube" data-floornum="1_0" data-moduleid="156278377" data-template="flex_cube"><div data-type="flexcube" data-key="hx_156278377_1_0" data-root="flatview" rows="1" class="sc-gXmSlM eEGIvD"><div data-type="view" class="sc-idiyUo jtjunl"><div class="sc-fEOsli fsdgMQ"><div class="sc-bjUoiL jrAsVU fc_block_nofloor" style="margin:0 0 0 0" data-type="block"><img data-type="image" alt="image" src="//storage.360buyimg.com/tower/babelnode/static/media/SH_grayplaceholder_big.0722a4db.png" type="200000" class="sc-dkzDqf bTDlOc"/></div></div></div></div></div><div class="bab-opt-mod bab-opt-mod-1_1 hotzone " data-floornum="1_1" data-moduleid="156278378" data-template="hotzone"><div class="hot-space-module" style="background:transparent"><div class="img-wrap" style="position:relative;background:transparent"><div style="height:252px;position:relative;background:transparent"><img src="data:image/webp;base64,UklGRkAAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAIAAAAAAFZQOCAYAAAAMAEAnQEqAQABAAFAJiWkAANwAP79NmgA" class="lazyload-img hotzone-pic more" data-src="//m.360buyimg.com/babel/jfs/t1/184639/5/29595/156038/634e6f35Ec2520170/9b7a7b704db18e58.gif" data-resize="0"/></div></div></div></div><div class="bab-opt-mod bab-opt-mod-1_2 hotzone " data-floornum="1_2" data-moduleid="156278379" data-template="hotzone"><div class="hot-space-module" style="background:transparent"><div class="img-wrap" style="position:relative;background:transparent"><div style="height:81px;position:relative;background:transparent"><img src="data:image/webp;base64,UklGRkAAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAIAAAAAAFZQOCAYAAAAMAEAnQEqAQABAAFAJiWkAANwAP79NmgA" class="lazyload-img hotzone-pic more" data-src="//m.360buyimg.com/babel/jfs/t1/194362/34/29151/14708/634d504dEfd89c8ee/8b1d8a12d9987137.jpg" data-resize="0"/></div></div></div></div><div class="bab-opt-mod bab-opt-mod-1_3 finance_coupon" data-floornum="1_3" data-moduleid="156278380" data-template="finance_coupon" style="background-color:#ff4b64;background-image:;background-size:100% 100%;height:223px"><div class="coupon_1x coupon_module upload_img"><a href="javascript: void 0;" class=""><img src="data:image/webp;base64,UklGRkAAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAIAAAAAAFZQOCAYAAAAMAEAnQEqAQABAAFAJiWkAANwAP79NmgA" width="0" height="0" class="lazyload-img" data-src="//m.360buyimg.com/babel/jfs/t1/176699/27/30556/97843/634e57f2E0a6fac99/c6afa8e7f3378b40.png" data-resize="0"/></a></div></div><div class="bab-opt-mod bab-opt-mod-1_4 free_coupon" data-floornum="1_4" data-moduleid="156537540" data-template="free_coupon"><div class="coupon-module" style="background:url(&quot;https://m.360buyimg.com/babel/jfs/t1/124140/20/25261/31235/6350c4e1E014b7c76/7d1c03577b0ca9fb.jpg&quot;) no-repeat center/100% 100%"><div style="position:relative;height:189px" class="gotouse"><a data-cpid="81060D58E815912645B5E4B741A96384_babel" href="javascript:void(0);" class="coupon-item  no-illus upload" style="position:absolute;width:943px;height:179px;left:22px;top:5px"><div class="use_mask"></div><div class="use_btn" style="background-color:#FF5D3E">立即使用</div></a></div></div></div><div class="section-loading"></div></div></div>
+    </div>
+    <script type="text/javascript">!function(){var t=/(?!storage\.)360buyimg\.com\/.*\.jpe?g(\.webp)?\s*$/i,e=/(?!storage\.)360buyimg\.com\/.*\/((s([\d^_]+)x([\d^_]+)_)?jfs)/i;var i,n,a=/(?!storage\.)360buyimg\.com\/.*\.jpe?g\s*$/i;function r(){var i=document.getElementById("J_babelOptPage").getElementsByTagName("img"),n=[];[].forEach.call(i,function(t){var e,i,a,r;t.offsetWidth<=0&&t.offsetHeight<=0||(e=t,i=window.innerWidth||document.documentElement.clientWidth,a=window.innerHeight||document.documentElement.clientHeight,r=e.getBoundingClientRect(),e.rect=r,r.top+r.height>=-a&&r.left+r.width>=0&&r.top<=2*a&&r.left<=i&&n.push(t))});var a,r,o=n.length;o&&[].forEach.call(n,function(i,n){var a=i.getAttribute("data-src"),r="0"===i.getAttribute("data-resize");if(a){var o=r?a:function(i,n){if(!t.test(i))return i;var a=i.match(e);if(!a)return i;if(a[3]&&a[4]){if(!n||!n.width&&!n.height)return i;n.width&&!n.height&&(n.height=n.width/a[3]*a[4]),n.height&&!n.width&&(n.width=n.height/a[4]*a[3]);var r="s"+Math.ceil(n.width)+"x"+Math.ceil(n.height)+"_jfs";return i.replace(a[1],r)}return n&&n.width&&n.height?i.replace("/jfs/","/s"+Math.ceil(n.width)+"x"+Math.ceil(n.height)+"_jfs/"):i}(a,i.rect),h=new Image;h.onload=function(){i.removeAttribute("data-src"),i.className+=" fadein",i.setAttribute("src",o),c(n,o)},h.onerror=function(){c(n,null)},h.src=o}else c(n,i.src)});function c(t,e){0===t&&(a=e),t+1===o&&(r=e,window.__preload_lazyload_imgs_info__={firstLoadImgSrc:a,lastLoadImgSrc:r})}}i=function(t){!function(t){if(t)for(var e=document.getElementsByTagName("img"),i=0,n=e.length;i<n;i++){var r=e[i];a.test(r.getAttribute("data-src"))&&r.setAttribute("data-src",r.getAttribute("data-src")+".webp")}}(t),r()},(n=new Image).onload=function(){n.height>0&&n.width>0?i(!0):i(!1)},n.onerror=function(){i(!1)},n.src="data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAUAmJaQAA3AA/vz0AAA="}();;</script>
+    <script>
+        (function() {
+            window.__react_data__ = {"pageData":{"msg":"success","floatLayerList":[],"paginationFlrs":"[[155777047,156278377,156278378,156278379,156278380,156537540,156278381,156278382,156278383,156278384,156342382,156582353],[156278385,156631596,156784389,156414918,157011488,156278390,156278391,156430741,156278392,156278393,156537541,156278395,156430743,156278396],[156278399,156278400,156430744,156278397,156278398,156430745,156278401,156430746,156278402,156278405,156430747,156278404,156278403,156430748],[156278406]]","paginationParamEnd":"","code":"0","pagination":true,"customcodeMatQryType":{},"asyncInterfaceBack":{"templatePlatform":"3"},"head":{"template":"page_setup","tailStyleId":"00001276","pageBgPicStyle":"0","pageBgColor":"#ff4b64","isFootCusCode":"0","pageBgPicUrl":"","pageName":"工业品会场","toolBarStyle":"","headSourceId":"06f29259fe4704742921320058fe8d48","styleType":"","isHeadCusCode":"0","headStyleId":"00001275","topBarStyle":"","footSourceId":"11f459447d52a97259810731871dd2ef","showShop":"0","headCodeText":null,"footCodeText":null},"activityId":"01350075","subCode":"0","transParam":"{\"bsessionId\":\"0eced0e9-39d8-4f3c-8ed5-d33f4200923e\",\"babelChannel\":\"\",\"actId\":\"01350075\",\"enActId\":\"4WC6o36D6WCbuSh9uYcCtLYqNHwE\",\"pageId\":\"3938412\",\"encryptCouponFlag\":\"1\",\"requestChannel\":\"pc\"}","biimpr":"01350075_39384121#2-7c09353c69320dfad559de5dfe99fad09a5d410b-0-710007-3_","floorList":[{"template":"flex_cube","ofn":"2","floorConfig":{"columns":1,"w":1125,"h":0,"viewStyle":{"leftPadding":0,"topPadding":0,"rightPadding":0,"radiusRB":0,"_viewpaddingStyle":"0","bottomPadding":0,"radiusLB":0,"detached":"0","radiusRT":0,"bgInfo":{"imgUrl":"","color":"rgba(255, 255, 255, 0)","type":"0"},"value":"0","_viewpadding":"0","radiusLT":0},"viewStyleUuid":"2cd41db37462c1445c99c72aa35f7644","style":"flatview","bgInfo":{"imgUrl":"","color":"#ffffff","sameColor":"0","type":"0"},"rows":1,"floorStyle":{"leftPadding":0,"cardVPadding":0,"lRPadding":"0","topPadding":0,"rightPadding":0,"bottomPadding":0,"cardPadding":"0","uDPadding":"0","cardHPadding":0},"singleLine":"1"},"id":156278377,"moduleId":156278377,"canvasConfig":{"maxW":1125,"maxDimensionLimit":true,"maxH":660,"w":1125,"h":372,"bgInfo":{"imgUrl":"https://m.360buyimg.com/babel/jfs/t1/192723/36/28706/78951/634e6f28E676502b3/7d96953322ead29c.jpg","color":"#ffffff","w":"","h":"","type":"1"},"uuid":"3dcd09a4f6b7a9df45966dd58c89f527","cfInfo":{"detached":"0","radiusRT":0,"radiusRB":0,"value":"0","radiusLB":0,"radiusLT":0},"canvasConfigUuid":"73d5f5370ddd61db8515fc3ec149eb1e"},"elementList":[{"type":"200000","config":{"autoFitType":"0","w":150,"h":76,"x":27,"y":27,"cfInfo":{"radiusRT":0,"radiusRB":0,"radiusLB":0,"radiusLT":0}},"dataPath":{"src":"https://img12.360buyimg.com/ling/jfs/t1/201799/5/17207/1422/633669cdE2e16ef0b/0fc1ccb251531182.png"}}],"materialGroupList":[{"groupInfoList":[{"clickEvent":{"type":"jump","jump":{"eventId":"Babel_FlexCubeAd","des":"m","srv":"{\"fno\":\"0-0-2\",\"ford2\":\"-100\",\"bi\":\"2\",\"mord\":\"-100\",\"ford1\":\"-100\",\"feedjud\":\"0\",\"mid\":\"156278377\",\"lingLongBiInfo\":\"-100\",\"typ\":\"40432\",\"bi2\":\"2\",\"agid\":\"06668129\",\"aord\":\"1\",\"uibi\":\"-100\",\"url\":\"//pro.m.jd.com/mall/active/4WC6o36D6WCbuSh9uYcCtLYqNHwE/index.html\",\"bord\":\"0\",\"mci\":\"06668129-18399688-5001676480-M#0-2-1--0--#1-0-#1-#bingoVis\",\"adid\":\"5001676480\",\"ftid2\":\"-100\",\"ftid1\":\"-100\",\"bid\":\"0\",\"aid\":\"01350075\",\"feedtyp\":\"-100\"}","params":{"innerLink":"","url":"//pro.jd.com/mall/active/4WC6o36D6WCbuSh9uYcCtLYqNHwE/index.html"}}},"exposureInfo":{"eventId":"Babel_FlexCubeAdExpo","srv":"{\"fno\":\"0-0-2\",\"ford2\":\"-100\",\"bi\":\"2\",\"mord\":\"-100\",\"ford1\":\"-100\",\"feedjud\":\"0\",\"mid\":\"156278377\",\"lingLongBiInfo\":\"-100\",\"typ\":\"40432\",\"bi2\":\"2\",\"agid\":\"06668129\",\"aord\":\"1\",\"uibi\":\"-100\",\"url\":\"//pro.m.jd.com/mall/active/4WC6o36D6WCbuSh9uYcCtLYqNHwE/index.html\",\"bord\":\"0\",\"mci\":\"06668129-18399688-5001676480-M#0-2-1--0--#1-0-#1-#bingoVis\",\"adid\":\"5001676480\",\"ftid2\":\"-100\",\"ftid1\":\"-100\",\"bid\":\"0\",\"aid\":\"01350075\",\"feedtyp\":\"-100\"}"},"materialId":"5001676480","flexData":{}}],"groupId":"06668129"}],"floorNum":"1_0"},{"template":"hotzone","externalBorder":"0","hotZone":{"picList":[{"picUrl":"//m.360buyimg.com/babel/jfs/t1/184639/5/29595/156038/634e6f35Ec2520170/9b7a7b704db18e58.gif","picW":1125,"picH":287,"picName":"a88b5802fd3894a0.gif"}],"pictureUrl":""},"ofn":"3","width":1125,"isFullScreen":"0","id":156278378,"moduleId":156278378,"priceLabel":{"show":"0"},"floorNum":"1_1","height":250},{"template":"hotzone","externalBorder":"0","hotZone":{"picList":[{"picUrl":"//m.360buyimg.com/babel/jfs/t1/194362/34/29151/14708/634d504dEfd89c8ee/8b1d8a12d9987137.jpg","picW":1125,"picH":93,"picName":"主会场_03.jpg"}],"pictureUrl":""},"ofn":"4","width":1125,"isFullScreen":"0","id":156278379,"moduleId":156278379,"priceLabel":{"show":"0"},"floorNum":"1_2","height":250},{"template":"finance_coupon","styleId":"1","config":{"bgStyle":"0","sameColor":"0","backgroundColor":"#ff4b64","bgPic":"","height":"240","width":"1125","picHeight":"240","picWidth":"1065","layoutStyle":"1","innerBorder":"0","iouGuideText":"此券为白条用户专享，立即激活白条即可领取哦~","iouGuideUrl":"https://bt.jd.com/v3/mobile/rGuide_initGuideMobile?source=JD_zw&channelName=38&returnUrl=https%3A%2F%2Fpro.jd.com%2Fmall%2Factive%2F4WC6o36D6WCbuSh9uYcCtLYqNHwE%2Findex.html"},"couponList":[{"picture":"//m.360buyimg.com/babel/jfs/t1/176699/27/30556/97843/634e57f2E0a6fac99/c6afa8e7f3378b40.png","val":"6期","limit":"无门槛","scope":"限plus用户购买工业品指定实物商品使用","srv":"01350075_156278380_t1_9898B569A3874A714430DA7AF60BEA685E535CBEC3A9B916AB6FA1F30F13EF05F8C9CCDD49351DA92DCCA361F5C9234F449EF09051C3DCDFACC9724284F36A9D9E206346C592B478E8F0A12B3699EA0A-babel_0_0_0_2_0-0-5_1","cpId":"9898B569A3874A714430DA7AF60BEA685E535CBEC3A9B916AB6FA1F30F13EF05F8C9CCDD49351DA92DCCA361F5C9234F449EF09051C3DCDFACC9724284F36A9D9E206346C592B478E8F0A12B3699EA0A_babel","scene":"3","couponStyle":"7","status":"0","expoSrv":"{\"bord\":0,\"fno\":\"0-0-5\",\"bi\":\"\",\"mid\":\"156278380\",\"typ\":\"t1\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"01350075\",\"cid\":\"9898B569A3874A714430DA7AF60BEA685E535CBEC3A9B916AB6FA1F30F13EF05F8C9CCDD49351DA92DCCA361F5C9234F449EF09051C3DCDFACC9724284F36A9D9E206346C592B478E8F0A12B3699EA0A_babel\"}","className":""}],"moduleId":156278380,"ofn":"5","id":156278380,"floorNum":"1_3"},{"template":"free_coupon","styleId":"0","couponList":[{"endPeriod":"2022-11-13","cpId":"81060D58E815912645B5E4B741A96384_babel","cpHot":{"w":1072,"x":26,"h":193,"y":6},"discount":"30","batchId":"871942970","biClk":"","jsonSrv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-6\",\"bi\":\"\",\"mid\":\"156537540\",\"typ\":\"t7\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"01350075\",\"cid\":\"871942970\"}","scene":"1","picUrl":"","beginPeriod":"2022-10-20","scope":"仅可购买工业品部分商品","limit":"每满200可用","shopId":"","countDown":-1666792434438,"expoSrv":"{\"cord\":1,\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-6\",\"bi\":\"\",\"mid\":\"156537540\",\"typ\":\"t7\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"01350075\",\"cid\":\"871942970\"}","flexibleData":{"scope":"仅可购买工业品部分商品","limit":"每满200可用","discount":"30","couponState":""},"jumpSku":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-6\",\"bi\":\"\",\"mid\":\"156537540\",\"typ\":\"t7\",\"bi2\":\"2\",\"sku\":\"\",\"bid\":\"0\",\"aid\":\"01350075\",\"cid\":\"871942970\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=871942970"}},"cpStyle":"2","jumpGd":{"des":"m","srv":"{\"bord\":\"0\",\"mci\":\"-100\",\"fno\":\"0-0-6\",\"bi\":\"-100\",\"mid\":\"156537540\",\"typ\":\"t7\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"01350075\",\"map\":\"-100\",\"cid\":\"871942970\"}","params":{"innerLink":"","url":"//search.jd.com/search?coupon_batch=871942970"}},"args":"key=C175FA2624F766B6C1F98979BBD28F9E7E6F621B92EF5DA32DF0EF4DB3C08B6DEB95DA90586E0F6D64AC065A244F9D23_babel,roleId=81060D58E815912645B5E4B741A96384_babel","cpLoc":{"w":1065,"x":0,"h":240,"y":0},"srv":"{\"bord\":\"0\",\"mci\":\"\",\"fno\":\"0-0-6\",\"bi\":\"\",\"mid\":\"156537540\",\"typ\":\"t7\",\"bi2\":\"2\",\"bid\":\"0\",\"aid\":\"01350075\",\"cid\":\"871942970\"}","beginTimeStr":"","isEnterprise":"0","illus":"","status":"0"}],"ofn":"6","id":156537540,"moduleId":156537540,"elementList":[{"color":"#000000","h":"75","textContent":"9999","totalLine":"1","align":"0","type":"discount","isBold":"1","size":"63","w":"303","x":"12","y":"45","lineCount":"1","key":"discount"},{"bgStyle":"0","color":"#F2190D","h":"45","totalLine":"3","align":"0","type":"limit","isBold":"0","size":"36","bgColor":"#ffffff","w":"300","x":"12","y":"144","lineCount":"1","key":"limit"},{"bgStyle":"1","color":"#ffffff","h":"50","totalLine":"3","align":"0","type":"scope","isBold":"0","size":"42","bgColor":"#f2190d","w":"474","x":"327","y":"57","lineCount":"1","key":"scope"},{"w":"246","h":"240","picture1":"https://m.360buyimg.com/babel/jfs/t1/152615/9/4841/9629/5fa36116Ef4603030/c63fe1f0be07495e.jpg","x":"816","y":"0","style":"0","type":"button","picture3":"http://m.360buyimg.com/babel/jfs/t1/180329/16/20133/6802/611f6e55Ee44fb806/2fe08d43df1534bd.png","key":"button","picture2":"https://m.360buyimg.com/babel/jfs/t1/130339/12/14772/8034/5fa36138E49cbea79/09d5ec039769dfe9.jpg"},{"w":"162","x":"819","h":"162","y":"27","type":"couponState","key":"couponState"}],"config":{"picWidth":531,"bgStyle":"1","backgroundColor":"#ff4b64","picHeight":240,"buttonColor":"#FF5D3E","cpContent":"","sameColor":"0","jumpGuide":"1","bgPic":"https://m.360buyimg.com/babel/jfs/t1/124140/20/25261/31235/6350c4e1E014b7c76/7d1c03577b0ca9fb.jpg","innerBorder":"1","enterpriseCopywrite":"此券为企业用户专享，立即注册企业账号领取吧~","loginUrl":"https://msc.jd.com/auth/loginpage/wcoo/toAuthPage?source=15&businessType=729&directReturnUrl=https%3A%2F%2Fpro.jd.com%2Fmall%2Factive%2F4WC6o36D6WCbuSh9uYcCtLYqNHwE%2Findex.html","familyCopywrite":"仅限家庭用户领取，开通家庭号领取专属福利吧！","width":1125,"showSku":"0","loginCopywrite":"此券需要实名认证用户才可以领取哦","layoutStyle":"6","plusCopywrite":"此券为PLUS正式会员专享券，立即开通PLUS即可领取哦！","enterpriseUrl":"https://reg.jd.com/b/regPage?source=buser&tgId=3M4AnFUngnU","picBgColor":"1","plusUrl":"https://plus.jd.com/index?s=ttt&returnUrl=https%3A%2F%2Fpro.jd.com%2Fmall%2Factive%2F4WC6o36D6WCbuSh9uYcCtLYqNHwE%2Findex.html","plusRenewCopywrite":"该券只有PLUS年卡续费用户可领，去续费领券吧~","height":204,"familyUrl":"https://myfamily.jd.com?source=babel"},"floorNum":"1_4"}],"item":"0","backgroundColor":"","paginationParams":["1","2","3","4"],"pageId":"3938412","visReState":{"matGrpN":2,"matReN":2},"returnMsg":"success","hasPerData":"1","hasIdentification":"1","encodeActivityId":"4WC6o36D6WCbuSh9uYcCtLYqNHwE","useDiscovery":"","resultTag":"ok"},"activityData":{"pageId":"3938412","pageUrl":"http://pro.jd.com/mall/active/4WC6o36D6WCbuSh9uYcCtLYqNHwE/index.html?babelChannel=ttt13","title":"工业品会场","activityId":"01350075","encodeActivityId":"4WC6o36D6WCbuSh9uYcCtLYqNHwE","inkTarget":"_blank","item":"0","cpChannelKey":"H5node","asyncInterfaceBack":{"templatePlatform":"3"}},"app":{"activityBu":"mall","activityId":"4WC6o36D6WCbuSh9uYcCtLYqNHwE","isEnvBeta":false,"isUniversal":false,"sid":"","universalSiteName":"mall"}};
+        }());
+    </script>
+    <div id="J-global-toolbar"></div>
+    <script src="//misc.360buyimg.com/jdf/1.0.0/unit/base/5.0.0/base.js"></script>
+    <script type="text/javascript">
+        (function () {
+            window.require = seajs && seajs.use;
+        })();
+    </script>
+            <!--service start-->
+<div id="service-2017">
+	<div class="w">
+		<ol class="slogen">
+			<li class="item fore1">
+				<i>多</i>品类齐全，轻松购物
+			</li>
+			<li class="item fore2">
+				<i>快</i>多仓直发，极速配送
+			</li>
+			<li class="item fore3">
+				<i>好</i>正品行货，精致服务
+			</li>
+			<li class="item fore4">
+				<i>省</i>天天低价，畅选无忧
+			</li>
+		</ol>
+	</div>
+	<div class="jd-help">
+		<div class="w">
+			<div class="wrap">
+				<dl class="fore1">
+					<dt>购物指南</dt>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-29.html">购物流程</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-151.html">会员介绍</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-297.html">生活旅行/团购</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue.html">常见问题</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-136.html">大家电</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/index.html">联系客服</a></dd>
+				</dl>
+				<dl class="fore2">
+					<dt>配送方式</dt>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81-100.html">上门自提</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-81.html">211限时达</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/103-983.html">配送服务查询</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/109-188.html">配送费收取标准</a></dd>
+					<dd><a target="_blank" href="//help.joybuy.com/help/question-list-201.html">海外配送</a></dd>
+				</dl>
+				<dl class="fore3">
+					<dt>支付方式</dt>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-172.html">货到付款</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-173.html">在线支付</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-176.html">分期付款</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-174.html">邮局汇款</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-175.html">公司转账</a></dd>
+				</dl>
+				<dl class="fore4">
+					<dt>售后服务</dt>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/321-981.html">售后政策</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-132.html">价格保护</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/130-978.html">退款说明</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//myjd.jd.com/repair/repairs.action">返修/退换货</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//help.jd.com/user/issue/list-50.html">取消订单</a></dd>
+				</dl>
+				<dl class="fore5">
+					<dt>特色服务</dt>
+					<dd><a target="_blank" href="//help.jd.com/user/issue/list-133.html">夺宝岛</a></dd>
+					<dd><a target="_blank" href="//help.jd.com/user/issue/list-134.html">DIY装机</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//fuwu.jd.com/">延保服务</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//o.jd.com/market/index.action">京东E卡</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//mobile.jd.com/">京东通信</a></dd>
+					<dd><a rel="nofollow" target="_blank" href="//s.jd.com/">京东JD+</a></dd>
+				</dl>
+				<span class="clr"></span>
+			</div>
+		</div>
+	</div>
+</div>
+<!--service end-->
+
+<!--footer start-->
+<div id="footer-2017">
+	<div class="w">
+		<div class="copyright_links">
+			<p>
+				<a href="//about.jd.com" target="_blank">关于我们</a><span class="copyright_split">|</span>
+				<a href="//about.jd.com/contact/" target="_blank">联系我们</a><span class="copyright_split">|</span>
+				<a href="//help.jd.com/user/custom.html" target="_blank">联系客服</a><span class="copyright_split">|</span>
+				<a href="//vc.jd.com/cooperation.html" target="_blank">合作招商</a><span class="copyright_split">|</span>
+				<a href="//helpcenter.jd.com/venderportal/index.html" target="_blank">商家帮助</a><span class="copyright_split">|</span>
+				<a href="//jzt.jd.com" target="_blank">营销中心</a><span class="copyright_split">|</span>
+				<a href="//app.jd.com/" target="_blank">手机京东</a><span class="copyright_split">|</span>
+				<a href="//club.jd.com/links.aspx" target="_blank">友情链接</a><span class="copyright_split">|</span>
+				<a href="//media.jd.com/" target="_blank">销售联盟</a><span class="copyright_split">|</span>
+				<a href="//pro.jd.com/mall/active/3WA2zN8wkwc9fL9TxAJXHh5Nj79u/index.html" target="_blank">京东社区</a><span class="copyright_split">|</span>
+				<a href="//pro.jd.com/mall/active/3TF25tMdrnURET8Ez1cW9hzfg3Jt/index.html" target="_blank">风险监测</a><span class="copyright_split">|</span>
+				<a href="//about.jd.com/privacy/" target="_blank">隐私政策</a><span class="copyright_split">|</span>
+				<a href="//gongyi.jd.com" target="_blank">京东公益</a><span class="copyright_split">|</span>
+				<a href="//en.jd.com/" target="_blank">English Site</a><span class="copyright_split">|</span>
+				<a href="//corporate.jd.com/" target="_blank">Media & IR</a>
+			</p>
+		</div>
+		<div class="copyright_info">
+			<p>
+				<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000088" target="_blank">京公网安备 11000002000088号</a><span
+				 class="copyright_split">|</span><span>京ICP证070359号</span><span class="copyright_split">|</span>
+				<a href="//jdwp.jd.com/544-2927.html" target="_blank">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a><span
+				 class="copyright_split">|</span><span>新出发京零 字第大120007号</span></p>
+			<p><span>互联网出版许可证编号新出网证(京)字150号</span><span class="copyright_split">|</span>
+				<a href="//pro.jd.com/mall/active/3bVDLXHdwVmdQksGF8TtS7ocq1NY/index.html" target="_blank">出版物经营许可证</a><span class="copyright_split">|</span>
+				<a href="//img10.360buyimg.com/ling/jfs/t1/164806/19/5070/567736/6017d6d6Eab06ec9c/d8ca6e029f495447.jpg" target="_blank">网络文化经营许可证京网文[2020]6112-1201号</a><span class="copyright_split">|</span><span>违法和不良信息举报电话：4006561155</span></p>
+			<p><span class="copyright_text">Copyright &copy; 2004 - <em id="copyright_year">2018</em> 京东JD.com 版权所有</span><span class="copyright_split">|</span><span>消费者维权热线：4006067733</span>
+				<a href="//sale.jd.com/act/7Y0Rp81MwQqc.html" target="_blank" class="copyright_license">经营证照</a>
+				<span class="copyright_split">|</span>
+				<span>(京)网械平台备字(2018)第00003号</span>
+				<span class="copyright_split">|</span>
+				<a href="//img20.360buyimg.com/uba/jfs/t24718/66/559330011/882232/4cf35258/5b73f0afNe32c9f97.jpg" target="_blank" class="mod_business_license">营业执照</a>
+			</p>
+			<p class="mod_copyright_inter">
+				<a class="mod_copyright_inter_lk" href="//www.joybuy.com/?source=1&visitor_from=3" target="_blank" clstag="h|keycount|btm|btmnavi_null0501"><i
+					 class="mod_copyright_inter_ico mod_copyright_inter_ico_global"></i><span class="languagefont">&#xe901;</span></a>
+				<span class="copyright_split">|</span>
+				<a class="mod_copyright_inter_lk" href="//www.jd.ru/?source=1&visitor_from=3" target="_blank" clstag="h|keycount|btm|btmnavi_null0502"><i
+					 class="mod_copyright_inter_ico mod_copyright_inter_ico_rissia"></i><span class="languagefont">&#xe904;</span></a>
+				<span class="copyright_split">|</span>
+				<a class="mod_copyright_inter_lk" href="//www.jd.id/?source=1&visitor_from=3" target="_blank" clstag="h|keycount|btm|btmnavi_null0503"><i
+					 class="mod_copyright_inter_ico mod_copyright_inter_ico_indonesia"></i><span class="languagefont">&#xe902;</span></a>
+				<span class="copyright_split">|</span>
+				<a class="mod_copyright_inter_lk" href="//www.joybuy.es/?source=1&visitor_from=3" target="_blank" clstag="h|keycount|btm|btmnavi_null0504"><i
+					 class="mod_copyright_inter_ico mod_copyright_inter_ico_spain"></i><span class="languagefont">&#xe903;</span></a>
+				<span class="copyright_split">|</span>
+				<a class="mod_copyright_inter_lk" href="//www.jd.co.th/?source=1&visitor_from=3" target="_blank" clstag="h|keycount|btm|btmnavi_null0505"><i
+					 class="mod_copyright_inter_ico mod_copyright_inter_ico_thailand"></i><span class="languagefont">&#xe900;</span></a>
+			</p>
+			<p><span>京东旗下网站：</span>
+				<a href="https://www.jdpay.com/" target="_blank">京东钱包</a><span class="copyright_split">|</span>
+				<a href="https://www.jcloud.com" target="_blank">京东云</a>
+			</p>
+		</div>
+		<p class="copyright_auth">
+			<script type="text/JavaScript">function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6);
+				document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i
+				< k;i++) rnd+=Math.floor(Math.random()*10); return rnd;};(function(){var d=new Date;document.getElementById(
+				 "copyright_year").innerHTML=d.getFullYear()})();</script>
+			<a id="urlknet" class="copyright_auth_ico copyright_auth_ico_2" onclick="CNNIC_change('urlknet')" oncontextmenu="return false;"
+			 name="CNNIC_seal" href="https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005" target="_blank">可信网站信用评估</a>
+			<a class="copyright_auth_ico copyright_auth_ico_3" href="http://www.cyberpolice.cn/" target="_blank">网警提醒你</a>
+			<a class="copyright_auth_ico copyright_auth_ico_4" href="https://search.szfw.org/cert/l/CX20120111001803001836" target="_blank">诚信网站</a>
+			<a class="copyright_auth_ico copyright_auth_ico_5" href="http://www.12377.cn" target="_blank">中国互联网举报中心</a>
+			<a class="copyright_auth_ico copyright_auth_ico_6" href="http://www.12377.cn/node_548446.htm" target="_blank">网络举报APP下载</a>
+		</p>
+	</div>
+</div>
+<!--footer end-->
+
+<script type="text/javascript">
+    window.pageConfig = {
+         compatible: true,
+     };
+</script>
+<script src="//misc.360buyimg.com/jdf/1.0.0/unit/base/5.0.0/base.js"></script>
+<script type="text/javascript">
+    (function() {
+         window.require = seajs && seajs.use;
+     })();
+    seajs.use(['//bhome.jd.com/common/static/js/globalInit.js'], function (globalInit) {
+        globalInit();
+    });
+    seajs.use('//misc.360buyimg.com/jdf/1.0.0/unit/hotwords/5.0.0/hotwords', function (hotwords) {});
+ </script>
+
+
+        <script src=//storage.360buyimg.com/babelpc/static/js/vendors.cf56d72e.chunk.js></script>
+<script src=//storage.360buyimg.com/babelpc/static/js/templates.6d553fda.chunk.js></script>
+<script src=//storage.360buyimg.com/babelpc/static/js/mall.ee45b171.js></script>
+</body>
+
+</html>
